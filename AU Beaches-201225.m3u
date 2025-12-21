@@ -1,4 +1,26 @@
 ﻿#EXTM3U 
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",Penzance Promenade
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.qqjbcdm.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt28139.rc0.edge.basic.stream/chunklist_w1874496052.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",Falmouth
+https://eu01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.mncjccd.fd0.sm1.av1.mt0.at0.as0.dv0.sh2.rt28139.rc0.edge.basic.stream/chunklist_w583807704.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",Padstow Harbour
+https://eu01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.xhfgb7j.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt28139.rc0.edge.basic.stream/chunklist_w1649640264.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",Porthleven
+https://eu01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.zccrb7e.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt28139.rc0.edge.basic.stream/chunklist_w1154320534.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",Mevagissey Harbour
+https://eu01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.zbnuchs.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt28139.rc0.edge.basic.stream/chunklist_w926818858.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",Mousehole Harbour
+https://eu01-smr03-relay.ozolio.com/hls-roll/_definst_/mp4:ozsd/ozolio-media-library/4396/videos/c1-6937fcf286f45659393765.mp4/chunklist_w1956496039.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",Newquay
+https://eu01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.uueleot.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt28139.rc0.edge.basic.stream/chunklist_w2091261148.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",St Ives Porthmeor
+https://eu01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.rprzb65.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt28139.rc0.edge.basic.stream/chunklist_w1179799401.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",St. Ives Harbour Beach
+https://eu01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.xnqtb7o.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt28139.rc0.edge.basic.stream/chunklist_w2145800175.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Western Australia",Brighton
 https://stream.n1.au.swellnet.com/surfcams/brighton.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Western Australia",Contacio
@@ -207,7 +229,7 @@ https://d1nm4r8e5x1rwd.cloudfront.net/cw/artreefcamera.stream/chunklist_w3977621
 https://stream.n1.au.swellnet.com/surfcams/narrowneck.stream/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Noosa
 https://stream.n1.au.swellnet.com/surfcams/noosa-heads.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Northcliffe
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Northcliffe SLSC
 https://stream.castr.com/651660c3b5ffafac50489241/live_7a5957705e8911ee8a076f2027cc97b9/index.fmp4.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Palm Beach South
 https://stream.n1.au.swellnet.com/surfcams/south-palm-beach.stream/chunks.m3u8

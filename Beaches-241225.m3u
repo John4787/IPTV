@@ -1,36 +1,38 @@
 ﻿#EXTM3U 
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Australian Cities
-https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/74ae0322-880c-48b6-9b3c-6ad127ab8ee5/06c5e66f-e691-4f83-a201-33f38a7f2442_4.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Caribbean Islands
 https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/ee8d4da0-b180-4710-af7a-cc192a0ca8f4/92c306e3-aa6b-406a-92a1-4b36769a0ac6_2.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Canada
 https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/13ca90d0-54a7-49f8-a2df-00a9b86d39a0/e98f788b-f0f3-457f-bec9-e707728390f7_2.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Catherdrals
-https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/cc07381f-0627-43a4-9da8-cae07cd7beac/30e6971a-3317-478e-9621-0b07d79623b2_4.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Historical Sites
-https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/e0fb14a7-4905-4c19-9c46-2629555d3761/edc2caa3-16a5-416a-998c-526e462a0a0f_4.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Brazil
 https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/92b0ce69-4784-4bc9-a8bc-af85d7689058/50a59b1f-c1f0-43d8-9236-662151b192dc_4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Switzeland
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/33b208c8-47cd-46d1-a6c2-834312add483/191a02bd-4093-4e3f-a4c3-7efee01c757b_4.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Florida
 https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/e2e2c4d3-87d4-47b9-8eab-300c5a3cc4be/be0c5063-c90d-4f1d-a611-e31bb300115c_4.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Malaysia
 https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/29a9ad2e-8024-42f2-833d-c187887428a8/b3d70226-d27f-481c-9329-16510329df80_4.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Iceland
 https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/6004ae78-6836-4d9c-b794-6360335c5c94/c5f998f4-2ef2-4dc9-b4f0-7a002d17963f_4.mp4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Mountains
-https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/65182519-10fa-411d-9e61-79ad405267e0/054cdbce-2697-4e67-a3c8-f74898a29cdd_4.mp4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",
-
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Winter Mountain Surfing
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/b2895d03-8b07-41cb-acf9-9100af8bdf3a/4fcd6c5d-e329-4b05-919b-06935d769548_2.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Austrian Alps
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/bc83956d-00f8-4a9d-8a2b-7583251f93de/4aea1e8a-cf7d-406b-bccc-0c5fa99d469e_2.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Northern Italy
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus001/cd730544-65ee-4144-91d9-33a7a105f4ff/4d7f7dec-251d-4c62-a9ac-80cc80ee_2.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",France
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/c2b5f038-248a-4ed9-bfb8-82bab332eea9/3c0b279f-6492-42f0-8613-80d6a610213a_4.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Scottish Lowlands
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/9d811dea-b2c0-4a0a-8f0b-5705275ccac1/5b0ea766-2586-4434-9bf7-898b98c2d924_4.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Portugal Beaches
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/13455105-7951-4885-983b-cf8bc8524597/03400601-28bd-40e1-a8ec-74a8cb3c36bc.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Englands Lake District
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/44d7d199-062f-468b-b9bf-bb3a9ef9ebba/ce52cbab-3305-433a-96d0-8bec781c9984_4.mp4
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Spanish Coast
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/5002c1c8-5126-40c3-a842-4b7a349976b4/59a50fca-ad09-4001-b2c7-43e50e8688c4_4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Ireland
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/98f93b0a-82b9-4d28-b85b-6b38a445ee78/5ff84392-f3d2-41d9-bdad-9edfe3b01452_2.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Drones",Italy
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/d33f178e-7bb0-4a8e-a235-85d7a96be6bd/7750d749-628b-469a-bd40-0b4175bc792b_4.mp4
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",Penzance Promenade
 https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.qqjbcdm.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt28139.rc0.edge.basic.stream/chunklist_w1874496052.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Cornwall",Mullion Cove

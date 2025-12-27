@@ -1,0 +1,655 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="Choppertown.us@SD"tvg-logo="https://i.imgur.com/U6cu5Ms.png"group-title="USA Auto":http-referrer="done":http-user-agent="",Choppertown
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="USA Auto":http-referrer="done":http-user-agent="",PowerSports World
+https://bbb-pwrsp-freecast.otteravision.com/bbb/pwrsp/pwrsp_1080p.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us@SD"tvg-logo="https://i.imgur.com/7zYIbU1.png"group-title="USA Auto":http-referrer="done":http-user-agent="",TVS Turbo 
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="FastTV.us@SD"tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250"group-title="USA Undefined":http-referrer="done":http-user-agent="",MotorTrend FAST TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f6c6f3a-05ab-4e92-bd57-fc8b312f109d
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="USA Auto":http-referrer="done":http-user-agent="",Full Custom Garage
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="MotorTrend.us@SD"tvg-logo="https://i.imgur.com/hKDccCL.png"group-title="USA Auto":http-referrer="done":http-user-agent="",Motor Trend
+http://104.255.88.155/motortrend/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCars.us@SD"tvg-logo="https://i.imgur.com/Tm3VFmq.png"group-title="USA Auto":http-referrer="done":http-user-agent="",Pluto TV Cars
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac636-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f9bce8e-d9f8-4cf4-8b83-367dc559496a
+#EXTINF:-1 tvg-id="PowerNationTV.us@SD"tvg-logo="https://i.imgur.com/jguTO8E.png"group-title="USA Auto":http-referrer="done":http-user-agent="",PowerNation
+https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="30AWeLoveCars.us@SD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU"group-title="USA Auto":http-referrer="done":http-user-agent="",We Love Cars
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+#EXTINF:-1 tvg-id="NHRATV.us@SD"tvg-logo="https://i.imgur.com/jZgcm4k.png"group-title="USA Auto":http-referrer="done":http-user-agent="",NHRA TV
+https://livetv-fa.tubi.video/nhra/nh.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/jZgcm4k.png"group-title="USA Auto":http-referrer="done":http-user-agent="",NHRA in late 60's , early 70's
+https://stream.ads.ottera.tv/cl/251227d57nsnbp9pilbd9ilkng/1920x1080_5702400_1_f.m3u8?i=475_867
+#EXTINF:-1 tvg-id=""tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/088ce610-528c-453a-b2d7-f706c7914d2a-1762957479.138074.256x256.jpg"group-title="USA Auto":http-referrer="done":http-user-agent="",Motorvision TV
+https://stream.ads.ottera.tv/cl/251226d57ev1v0cfctsjk3ve00/1280x720_3071200_0_f.m3u8?i=475_1322
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us@SD"tvg-logo="https://i.imgur.com/5pOZQB4.png"group-title="USA Classic":http-referrer="done":http-user-agent="",Artflix Movie Classics
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BeverlyHillbillies.us@US"tvg-logo="https://i.imgur.com/OV9hT93.png"group-title="USA Classic":http-referrer="done":http-user-agent="",Beverly Hillbillies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7796e470510900070d4e3d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69bf4a83-189f-4b22-bbe6-f2e09a47e049
+#EXTINF:-1 tvg-id="CinevaultWesterns.us@SD"tvg-logo="https://i.imgur.com/K1W137J.png"group-title="USA Classic":http-referrer="done":http-user-agent="",Cinevault Westerns
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us@SD"tvg-logo="https://i.imgur.com/qkfe3o9.png"group-title="USA Classic":http-referrer="done":http-user-agent="",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesRetro.us@SD"tvg-logo="https://i.imgur.com/UpgGZJ1.png"group-title="USA Classic":http-referrer="done":http-user-agent="",Pluto TV Series Retro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="SamuelGoldwynClassics.us@SD"tvg-logo="https://i.imgur.com/XC30JAF.png"group-title="USA Classic":http-referrer="done":http-user-agent="",Samuel Goldwyn Classics
+https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East"tvg-logo="https://i.imgur.com/L6GjoS4.png"group-title="USA Classic":http-referrer="done":http-user-agent="",Starz Encore Classic East
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="TheArchive.us@SD"tvg-logo=""group-title="USA Classic":http-referrer="done":http-user-agent="",The Archive
+https://cineverse.g-mana.live/media/09899328-5b22-4d3e-ba1e-111856798c99/playlist_3.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTheTwilightZone.us@SD"tvg-logo="https://i.imgur.com/FiIRQAR.png"group-title="USA Classic":http-referrer="done":http-user-agent="",The Twilight Zone
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67352ed93a61d4000881f9fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a782-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=02a62904-a852-11f0-88b2-b2f52acde718
+#EXTINF:-1 tvg-id="TVLand.us@East"tvg-logo="https://i.imgur.com/VNNS4mF.png"group-title="USA Classic":http-referrer="done":http-user-agent="",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-id="TVSCipherNetwork.us@SD"tvg-logo="https://i.imgur.com/yyz1S2W.png"group-title="USA Classic":http-referrer="done":http-user-agent="",TVS Cipher Network
+https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicMovies.us@SD"tvg-logo="https://i.imgur.com/st1xMsw.png"group-title="USA Classic":http-referrer="done":http-user-agent="",TVS Classic Movies
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us@SD"tvg-logo="https://i.imgur.com/QtQGyMS.png"group-title="USA Classic":http-referrer="done":http-user-agent="",TVS Hollywood History
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-id="TVSMainstreet.us@SD"tvg-logo="https://i.imgur.com/N9nQpnP.png"group-title="USA Classic":http-referrer="done":http-user-agent="",TVS Mainstreet
+https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgia.us@SD"tvg-logo="https://i.imgur.com/q72FCCQ.png"group-title="USA Classic":http-referrer="done":http-user-agent="",TVS Nostalgia
+https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us@SD"tvg-logo="https://i.imgur.com/w4fxiKi.png"group-title="USA Classic":http-referrer="done":http-user-agent="",TVS Nostalgia Movies
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSTalkNetwork.us@SD"tvg-logo="https://i.imgur.com/WsaVAhx.png"group-title="USA Classic":http-referrer="done":http-user-agent="",TVS Talk Network
+https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
+#EXTINF:-1 tvg-id="TVSWesternMovie.us@SD"tvg-logo="https://i.imgur.com/dwr98qb.png"group-title="USA Classic":http-referrer="done":http-user-agent="",TVS Western Movie
+https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="WantedDeadorAlive.us@SD"tvg-logo="https://i.imgur.com/vaSXaFp.png"group-title="USA Classic":http-referrer="done":http-user-agent="",Wanted: Dead or Alive
+https://livetv-fa.tubi.video/wanted-dead-or-alive2/playlist.m3u8
+#EXTINF:-1 tvg-id="WesternTV.us@SD"tvg-logo="https://i.imgur.com/nNy9oTx.png"group-title="USA Classic":http-referrer="done":http-user-agent="",Western TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d102a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b2ed67fd-7088-4b5b-bf24-daa30ff6efdc
+#EXTINF:-1 tvg-id="AFV.us@SD"tvg-logo="https://i.imgur.com/TOB9vmW.png"group-title="USA Comedy":http-referrer="":http-user-agent="",AFV (720p)
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVEspanol.us@SD"tvg-logo="https://i.imgur.com/HUK4WXC.png"group-title="USA Comedy":http-referrer="":http-user-agent="",AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="BlackThrowbacks.us@SD"tvg-logo="https://i.imgur.com/2r6UbZw.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Black Throwbacks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61326275b3c86a00078e4833/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16224f18-2a57-4fa3-bf6a-994524fcf480
+#EXTINF:-1 tvg-id="CameraSmileTV.us@SD"tvg-logo="https://i.imgur.com/V5h4R83.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Camera Smile (480p)
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-id="ClassicTVComedy.us@SD"tvg-logo="https://i.imgur.com/wg5I5Fb.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Classic TV Comedy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e004-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=518ef377-f53a-4652-8bcc-2dc596ce4106
+#EXTINF:-1 tvg-id="ComediaMadeinSpain.us@SD"tvg-logo="https://i.imgur.com/8ddFdSQ.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Comedia Made in Spain (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
+#EXTINF:-1 tvg-id="ComedyCentral.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Comedy Central (720p)
+https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralAnimation.us@SD"tvg-logo="https://i.imgur.com/uENch0P.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Comedy Central Animation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a949f5b5e4000862467c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b862-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=954a470a-ef46-4375-9079-27408bd93898
+#EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD"tvg-logo="https://i.imgur.com/6xTD3G8.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Comedy Central en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US"tvg-logo="https://i.imgur.com/9y6TtjF.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Comedy Central Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD"tvg-logo="https://i.imgur.com/1lEvUOa.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Comedy Dynamics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us@SD"tvg-logo="https://i.imgur.com/KLfXnba.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD"tvg-logo="https://i.imgur.com/3N2C60N.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Dry Bar Comedy (720p)
+https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@US"tvg-logo="https://i.imgur.com/VIpQJxL.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Failarmy International (720p)
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FunnyAF.us@SD"tvg-logo="https://i.imgur.com/UCwjdtQ.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Funny AF
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5
+#EXTINF:-1 tvg-id="HumorMill.us@SD"tvg-logo="https://i.imgur.com/e5W91v2.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Humor Mill (1080p) [Not 24/7]
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD"tvg-logo="https://i.imgur.com/HjVEVMJ.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Just For Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KSHBDT3.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png"group-title="USA Comedy":http-referrer="":http-user-agent="",KSHB-DT3 (720p)
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+#EXTINF:-1 tvg-id="Laff.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Laff (480p)
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us@SD"tvg-logo="https://i.imgur.com/Tiy3Ur2.png"group-title="USA Comedy":http-referrer="":http-user-agent="",LOL Network (1080p)
+https://livetv-fa.tubi.video/lol-network3/playlist.m3u8
+#EXTINF:-1 tvg-id="MoreTVSitcoms.us@SD"tvg-logo="https://i.imgur.com/4mbhOEo.png"group-title="USA Comedy":http-referrer="":http-user-agent="",More TV Sitcoms
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=62d7dbcd-04ab-4ca8-ae91-0bf98c68d0d2
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us@SD"tvg-logo="https://i.imgur.com/8KWjY4o.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Mystery Science Theater 3000 (1080p)
+https://mst3k-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedy.us@US"tvg-logo="https://i.imgur.com/MTVrbd5.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Pluto TV Comedy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9ed92f1-1fa3-4a05-abd8-e6b077ed35c4
+#EXTINF:-1 tvg-id="PlutoTVComedyCentralLatino.us@SD"tvg-logo="https://i.imgur.com/FiM7Rbz.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Pluto TV Comedy Central Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVKenanyKel.us@SD"tvg-logo="https://i.imgur.com/9PAY5Xz.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Pluto TV Kenan y Kel (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="RiffTrax.us@US"tvg-logo="https://i.imgur.com/hM4yKMn.png"group-title="USA Comedy":http-referrer="":http-user-agent="",RiffTrax
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8982-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ae8efba-578b-4c2b-a7a1-ec96f6d4bf26
+#EXTINF:-1 tvg-id="TVLandSitcoms.us@SD"tvg-logo="https://i.imgur.com/phHHs7l.png"group-title="USA Comedy":http-referrer="":http-user-agent="",TV Land Sitcoms
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b42011ce-d42f-4692-bb1d-2fe02741437a
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us@SD"tvg-logo="https://i.imgur.com/rXORbti.png"group-title="USA Comedy":http-referrer="":http-user-agent="",TVS Comedy Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-id="UniversalComedy.us@SD"tvg-logo="https://i.imgur.com/avBL8pQ.png"group-title="USA Comedy":http-referrer="":http-user-agent="",Universal Comedy (480p)
+http://190.2.212.209:8050/play/a0q4
+#EXTINF:-1 tvg-id="BritBoxMysteries.us@SD"tvg-logo="https://i.imgur.com/PJdzoLN.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",BritBox Mysteries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f5d389985a0c0007357304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7df7400e-1d21-4d2c-9534-db1c6d847a42
+#EXTINF:-1 tvg-id="Crime360.us@SD"tvg-logo="https://i.imgur.com/IjtaG1m.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",Crime 360
+https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="ForensicFiles.us@SD"tvg-logo="https://i.imgur.com/V5vvuLK.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",Forensic Files
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92392a3e6270007f562e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=053b9371-9f0f-4936-9aa9-ae27ee69ae5f
+#EXTINF:-1 tvg-id="History.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",History
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="KTOODT3.us@SD"tvg-logo="https://i.imgur.com/ppn5oJy.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",KTOO DT3
+https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
+#EXTINF:-1 tvg-id="MagellanTVNow.us@SD"tvg-logo="https://i.imgur.com/gEraSp5.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",MagellanTV Now
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",National Geographic
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="Reelz.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",Reelz
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="SpikePlutoTV.us@SD"tvg-logo="https://i.imgur.com/woY8Ecb.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",Spike Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b
+#EXTINF:-1 tvg-id="PlutoTVHistory.us@US"tvg-logo="https://i.imgur.com/XkQD5kM.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed48-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b0c9a3d-9786-4dee-8eea-1dfcbea2ee1b
+#EXTINF:-1 tvg-id="TheNest.us@SD"tvg-logo="https://iili.io/JGqD21e.png"group-title="USA Documentary":http-referrer="Done":http-user-agent="",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-id="KERODT1.us@SD"tvg-logo="https://i.imgur.com/CMANZWk.png"group-title="USA General":http-referrer="Done":http-user-agent="",23 ABC Bakersfield CA
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-id="KGTVDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 10 San Diego CA
+https://livetv-fa.tubi.video/kgtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="WISNDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 12 Milwaukee WI
+https://livetv-fa.tubi.video/wisn/playlist.m3u8
+#EXTINF:-1 tvg-id="KTNVDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KTNV_2023.svg/512px-KTNV_2023.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 13 Las Vegas NV
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 tvg-id="KNXVDT1.us@SD"tvg-logo="https://i.imgur.com/43s7KXt.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 15 Phoenix AZ
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 tvg-id="KXXVDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 25 News Central Texas
+https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+#EXTINF:-1 tvg-id="KATCDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 3 Lafayette LA
+https://livetv-fa.tubi.video/katc/playlist.m3u8
+#EXTINF:-1 tvg-id="KHBSDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 40/29 Fort Smith AR
+https://livetv-fa.tubi.video/khbs/playlist.m3u8
+#EXTINF:-1 tvg-id="WCVBDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 5 Boston MA
+https://livetv-fa.tubi.video/wcvb/playlist.m3u8
+#EXTINF:-1 tvg-id="KOCODT1.us@SD"tvg-logo=""group-title="USA General":http-referrer="Done":http-user-agent="",ABC 5 Oklahoma City OK
+https://livetv-fa.tubi.video/koco/playlist.m3u8
+#EXTINF:-1 tvg-id="KIVIDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/KIVI-TV_Idaho_News_6_logo.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 6 Boise ID
+https://livetv-fa.tubi.video/kivi/playlist.m3u8
+#EXTINF:-1 tvg-id="KOATDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 7 Albuquerque NM
+https://livetv-fa.tubi.video/koat/playlist.m3u8
+#EXTINF:-1 tvg-id="KMGHDT1.us@SD"tvg-logo="https://i.imgur.com/MWvoICD.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 7 Denver CO
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="KETVDT1.us@SD"tvg-logo="https://i.imgur.com/CWZtYNi.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 7 Omaha NE
+https://livetv-fa.tubi.video/ketv/playlist.m3u8
+#EXTINF:-1 tvg-id="KGUNDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"group-title="USA General":http-referrer="Done":http-user-agent="",ABC 9 Tucson AZ
+https://livetv-fa.tubi.video/kgun/playlist.m3u8
+#EXTINF:-1 tvg-id="AccessNashua.us@SD"tvg-logo="https://i.imgur.com/iv9Vfcb.png"group-title="USA General":http-referrer="Done":http-user-agent="",Access Nashua
+https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AWE.us@SD"tvg-logo="https://i.postimg.cc/85g5z1dJ/awe.png"group-title="USA General":http-referrer="Done":http-user-agent="",AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us@SD"tvg-logo="https://i.imgur.com/T4HwPUn.png"group-title="USA General":http-referrer="Done":http-user-agent="",Bloomberg Quicktake
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-id="CityTVCarlsbad.us@SD"tvg-logo="https://i.imgur.com/G6h8efT.png"group-title="USA General":http-referrer="Done":http-user-agent="",Carlsbad City TV Channel
+https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KTVQDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",CBS 2 Billings MT
+https://livetv-fa.tubi.video/ktvq/playlist.m3u8
+#EXTINF:-1 tvg-id="KRTVDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",CBS 3 Great Falls MT
+https://livetv-fa.tubi.video/krtv/playlist.m3u8
+#EXTINF:-1 tvg-id="KMTVDT1.us@SD"tvg-logo="https://i.imgur.com/E4PkyqN.png"group-title="USA General":http-referrer="Done":http-user-agent="",CBS 3 Omaha NE
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-id="KBZKDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",CBS 7 Bozeman MT
+https://livetv-fa.tubi.video/kbzk/playlist.m3u8
+#EXTINF:-1 tvg-id="KCCIDT1.us@SD"tvg-logo="https://i.imgur.com/6xjshQj.png"group-title="USA General":http-referrer="Done":http-user-agent="",CBS 8 Des Moines IA
+https://livetv-fa.tubi.video/kcci/playlist.m3u8
+#EXTINF:-1 tvg-id="KPAXDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",CBS 8 Missoula MT
+https://livetv-fa.tubi.video/kpax/playlist.m3u8
+#EXTINF:-1 tvg-id="KWTVDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",CBS 9 Oklahoma City OK
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",CBS East
+https://fl1.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-id="CerritosTV3.us@SD"tvg-logo="https://i.imgur.com/huCBOIy.png"group-title="USA General":http-referrer="Done":http-user-agent="",Cerritos TV3
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
+#EXTINF:-1 tvg-id="ScottsdaleChannel11.us@SD"tvg-logo="https://i.imgur.com/lfE6Q9i.png"group-title="USA General":http-referrer="Done":http-user-agent="",Channel 11
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
+#EXTINF:-1 tvg-id="CNCTV.us@SD"tvg-logo="https://i.imgur.com/6pqmyPl.png"group-title="USA General":http-referrer="Done":http-user-agent="",CNC TV San Diego CA
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",FOX
+https://fl1.moveonjoy.com/FOX/index.m3u8
+#EXTINF:-1 tvg-id="KSTUDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",FOX 13 Salt Lake City UT
+https://livetv-fa.tubi.video/kstu2/playlist.m3u8
+#EXTINF:-1 tvg-id="KCPQDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",FOX 13 Seattle WA
+https://livetv-fa.tubi.video/kcpq/index.m3u8
+#EXTINF:-1 tvg-id="KTVUDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",FOX 2 San Francisco CA
+https://livetv-fa.tubi.video/ktvu/index.m3u8
+#EXTINF:-1 tvg-id="KBSIDT1.us@SD"tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png"group-title="USA General":http-referrer="Done":http-user-agent="",FOX 23 Cape Girardeau MO
+https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+#EXTINF:-1 tvg-id="Galavision.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",Galavision
+http://104.238.205.28:8989/278705_.m3u8
+#EXTINF:-1 tvg-id="GlewedTV.us@SD"tvg-logo="https://i.imgur.com/ppM9hQs.png"group-title="USA General":http-referrer="Done":http-user-agent="",Glewed TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
+#EXTINF:-1 tvg-id="KDFWDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",KDFW-
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="KITVDT1.us@SD"tvg-logo="https://i.imgur.com/pj0O5nu.png"group-title="USA General":http-referrer="Done":http-user-agent="",KITV 4 Hawaii
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
+#EXTINF:-1 tvg-id="KMSPDT1.us@SD"tvg-logo="https://i.imgur.com/HCfd9BV.png"group-title="USA General":http-referrer="Done":http-user-agent="",KMSP-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KOKIDT1.us@SD"tvg-logo="https://i.imgur.com/pRKEMb1.jpg"group-title="USA General":http-referrer="Done":http-user-agent="",KOKI-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="KRISDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",KRIS-DT1
+https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
+#EXTINF:-1 tvg-id="KRIVDT1.us@SD"tvg-logo="https://i.imgur.com/AZ8MWRp.jpg"group-title="USA General":http-referrer="Done":http-user-agent="",KRIV-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KSAZDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",KSAZ-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KSBYDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",KSBY Obispo CA
+https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
+#EXTINF:-1 tvg-id="KSHBDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",KSHB 41 Kansas City MO
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+#EXTINF:-1 tvg-id="KTBCDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",KTBC-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KTTVDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",KTTV-DT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="KZTVDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",KZTV-DT1
+https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
+#EXTINF:-1 tvg-id="NBC.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",NBC
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-id="KTVHDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",NBC 12 Helena MT
+https://livetv-fa.tubi.video/ktvh/playlist.m3u8
+#EXTINF:-1 tvg-id="KJRHDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",NBC 2 Tulsa OK
+https://livetv-fa.tubi.video/kjrh/playlist.m3u8
+#EXTINF:-1 tvg-id="KCRADT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",NBC 3 Sacramento CA
+https://livetv-fa.tubi.video/kcra/playlist.m3u8
+#EXTINF:-1 tvg-id="KOAADT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",NBC 5 Colorado Springs CO
+https://livetv-fa.tubi.video/koaa/playlist.m3u8
+#EXTINF:-1 tvg-id="KSBWDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",NBC 8 Salinas CA
+https://livetv-fa.tubi.video/ksbw/playlist.m3u8
+#EXTINF:-1 tvg-id="KNSDDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA General":http-referrer="Done":http-user-agent="",NBC West
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-id="NTDTVEnglish.us@USA"tvg-logo="https://i.imgur.com/26uv1ww.png"group-title="USA General":http-referrer="Done":http-user-agent="",NTD TV English
+https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="SFGovTV2.us@SD"tvg-logo="https://i.imgur.com/SOk5m5B.png"group-title="USA General":http-referrer="Done":http-user-agent="",SFGovTV2 San Francisco
+https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD"tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png"group-title="USA General":http-referrer="Done":http-user-agent="",Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 tvg-id="FYI.us@East"tvg-logo="https://i.imgur.com/PggQk7F.png"group-title="USA Lifestyle":http-referrer="Done":http-user-agent="",FYI East
+https://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD"tvg-logo="https://i.imgur.com/kkm7VqV.png"group-title="USA Lifestyle":http-referrer="Done":http-user-agent="",PBS Antiques Road Trip
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us@SD"tvg-logo="https://i.imgur.com/4v93XUB.png"group-title="USA Lifestyle":http-referrer="Done":http-user-agent="",The Jamie Oliver Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab9df3d48f40008868091/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c35404c-1695-499c-9f13-965f00e7ea9b
+#EXTINF:-1 tvg-id="70sCinema.us@SD"tvg-logo="https://i.imgur.com/mgXeEE4.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",70s Cinema
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
+#EXTINF:-1 tvg-id="80sRewind.us@SD"tvg-logo="https://i.imgur.com/nkEeYfI.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",80s Rewind
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0
+#EXTINF:-1 tvg-id="90sThrowback.us@SD"tvg-logo="https://i.imgur.com/KoGko6M.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",90s Throwback
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
+#EXTINF:-1 tvg-id="AMC.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",AMC East
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CineAdrenalina.us@SD"tvg-logo="https://i.imgur.com/njCKaMv.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Cine Adrenalina
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="CinePremiere.us@SD"tvg-logo="https://i.imgur.com/PdhWTO6.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Cine Premiere
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CineSony.us@SD"tvg-logo="https://i.imgur.com/bZWoDTg.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineTerror.us@SD"tvg-logo="https://i.imgur.com/I5XxyLI.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Cine Terror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
+#EXTINF:-1 tvg-id="CineXOXO.us@SD"tvg-logo="https://i.imgur.com/eAS86qH.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Cine XOXO
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
+#EXTINF:-1 tvg-id="ClassicCinema.us@SD"tvg-logo="https://i.imgur.com/FJoPnTb.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Classic Cinema (240p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="ClassicMoviesChannel.us@SD"tvg-logo="https://i.imgur.com/pQJxov2.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Classic Movies Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
+#EXTINF:-1 tvg-id="EBSCinema.us@SD"tvg-logo="https://i.imgur.com/fewPTFE.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",EBS Cinema (720p)
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 tvg-id="FlicksofFury.us@SD"tvg-logo="https://i.imgur.com/rtL5L81.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Flicks of Fury
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07
+#EXTINF:-1 tvg-id="FlouCine.us@SD"tvg-logo="https://i.imgur.com/OM6BP37.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Flou Cine
+https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",FX Movie Channel (720p) [Not 24/7]
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-id="FXM.us@East"tvg-logo="https://i.postimg.cc/j27hBV04/fxm.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",FXM East
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD"tvg-logo="https://i.imgur.com/wFqhK3p.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Grjngo Western Movies (720p)
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD"tvg-logo="https://i.imgur.com/GPRGA9C.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Hallmark Movies & More
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East"tvg-logo="https://i.imgur.com/GPRGA9C.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Hallmark Movies Mysteries East
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="IFC.us@East"tvg-logo="https://i.imgur.com/bQdkyF9.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",IFC East (720p) [Not 24/7]
+https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East"tvg-logo="https://i.postimg.cc/RZGmYyTt/lifetimemovies.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Lifetime Movies East
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MadeInHollywood.us@SD"tvg-logo="https://i.imgur.com/p16HNIM.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD"tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Maverick Black Cinema (1080p)
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MGMPlus.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",MGM+ East
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",MGM+ Marquee
+https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="SamsungMovieSphere.us@SD"tvg-logo=""group-title="USA Movies":http-referrer="Done":http-user-agent="",MovieSphere (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD"tvg-logo="https://i.imgur.com/HYgxPVQ.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",MyTime Movie Network (1080p)
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@SD"tvg-logo="https://i.imgur.com/h1ejU90.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",MovieSphere by Lionsgate
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD"tvg-logo="https://i.imgur.com/sj5h9bl.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Paramount Movie Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Paramount Network East
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD"tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg"group-title="USA Movies":http-referrer="Done":http-user-agent="",Paramount+ Picks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
+#EXTINF:-1 tvg-id="PelisyPopcorn.us@SD"tvg-logo="https://i.imgur.com/jP19sGt.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pelis y Popcorn
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
+#EXTINF:-1 tvg-id="PlutoTVAction.us@US"tvg-logo="https://i.imgur.com/tDapGal.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.us@US"tvg-logo="https://i.imgur.com/PXhCzXn.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Cine Accion
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@US"tvg-logo="https://i.imgur.com/v3BO4nW.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Cine Estelar
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=
+#EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@SD"tvg-logo="https://i.imgur.com/9j1njE3.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Crime Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92708a7ce600007b2676a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d26-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59a15527-cb90-4bf4-90ab-ec456c5d2df2
+#EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us@SD"tvg-logo="https://i.imgur.com/SJcqknt.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Crime Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
+#EXTINF:-1 tvg-id="PlutoTVCultFilms.us@US"tvg-logo="https://i.imgur.com/xoaIAus.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Cult Films
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
+#EXTINF:-1 tvg-id="PlutoTVDrama.us@US"tvg-logo="https://i.imgur.com/PvhbHTZ.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed44-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b9b883-5344-4e99-81f9-dc1d9942ca58
+#EXTINF:-1 tvg-id="PlutoTVReaction.us@SD"tvg-logo="https://i.imgur.com/H9k3OXN.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Reaction
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1457-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32aea123-3ab5-4713-944a-87ebeb334781
+#EXTINF:-1 tvg-id="PlutoTVRomance.us@US"tvg-logo="https://i.imgur.com/GJBxfyf.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1459-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195653a1-6a75-4cb6-b94d-0fe4a7594dba
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@US"tvg-logo="https://i.imgur.com/vSzd5m7.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Sci-Fi
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed62db1c-5556-4fa7-b231-9514fcc69832
+#EXTINF:-1 tvg-id="PlutoTVSpotlight.us@SD"tvg-logo="https://i.imgur.com/UmuJkVB.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Spotlight
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a26dc013-1780-409c-9a56-09ae4538fe40
+#EXTINF:-1 tvg-id="PlutoTVStaffPicks.us@SD"tvg-logo="https://i.imgur.com/JzwO8IO.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Staff Picks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b65-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2fde2b7-d78e-4906-abf2-3c433f73ec5b
+#EXTINF:-1 tvg-id="PlutoTVTerror.us@SD"tvg-logo="https://i.imgur.com/eWtoHDM.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Terror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us@US"tvg-logo="https://i.imgur.com/ULKvDN7.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Thrillers
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us@US"tvg-logo="https://i.imgur.com/biepi4A.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Pluto TV Westerns
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
+#EXTINF:-1 tvg-id="RevryHer.us@SD"tvg-logo="https://www.washingtonblade.com/content/files/2020/01/QUEER_STREAMING_SERVICE_ADOPTS-LGBT_TOKEN_FEATURED_WB_10012020-e1578680670538.jpeg"group-title="USA Movies":http-referrer="Done":http-user-agent="",Revry Her
+https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us@SD"tvg-logo=""group-title="USA Movies":http-referrer="Done":http-user-agent="",Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",Sundance TV East
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="TVLandDrama.us@SD"tvg-logo="https://i.imgur.com/y1rXIAS.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",TV Land Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e762bb7-572b-4470-87fd-b3b4bb48462e
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us@SD"tvg-logo="https://i.imgur.com/OR9APjb.png"group-title="USA Movies":http-referrer="Done":http-user-agent="",TVS Drive In Movie (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us@SD"tvg-logo="https://i.imgur.com/Q4l2uao.png"group-title="USA Outdoor":http-referrer="done":http-user-agent="",Darcizzle Offshore
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNashville.us@SD"tvg-logo="https://i.imgur.com/fHkPbli.png"group-title="USA Outdoor":http-referrer="done":http-user-agent="",Nashville
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8d7428730900087c5907/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f04-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=755f7df4-39e5-40b0-b9c3-628ab31d2612
+#EXTINF:-1 tvg-id="OutdoorAmerica.us@SD"tvg-logo="https://i.imgur.com/UKfimFD.png"group-title="USA Outdoor":http-referrer="done":http-user-agent="",Outdoor America
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD"tvg-logo="https://i.imgur.com/Kh4MWaY.png"group-title="USA Outdoor":http-referrer="done":http-user-agent="",Outdoor Channel
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBackcountry.us@SD"tvg-logo="https://i.imgur.com/KnlQzs7.png"group-title="USA Outdoor":http-referrer="done":http-user-agent="",Pluto TV Backcountry
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac634-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bbab6d6-61db-4795-bbab-9325b47792ec
+#EXTINF:-1 tvg-id="PursuitUP.us@SD"tvg-logo="https://i.imgur.com/5Vzwqts.png"group-title="USA Outdoor":http-referrer="done":http-user-agent="",Pursuit UP
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SpikeOutdoors.us@SD"tvg-logo="https://i.imgur.com/cdCD2A2.png"group-title="USA Outdoor":http-referrer="done":http-user-agent="",Spike Outdoors
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb097-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba96820a-ef7c-474b-9484-5944ae6322c0
+#EXTINF:-1 tvg-id="WaypointTV.us@SD"tvg-logo="https://i.imgur.com/9vvlJN9.png"group-title="USA Outdoor":http-referrer="done":http-user-agent="",Waypoint TV
+https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVScience.us@US"tvg-logo="https://i.imgur.com/uhunRoU.png"group-title="USA Science":http-referrer="done":http-user-agent="",Pluto TV Science
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7
+#EXTINF:-1 tvg-id="SmithsonianChannel.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png"group-title="USA Science":http-referrer="done":http-user-agent="",Smithsonian Channel East
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD"tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg"group-title="USA Science":http-referrer="done":http-user-agent="",Smithsonian Channel Selects
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
+#EXTINF:-1 tvg-id="48Hours.us@SD"tvg-logo="https://i.imgur.com/Q7THHhX.png"group-title="USA Series":http-referrer="done":http-user-agent="",48 Hours
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e925bc68d18a00077bb990/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78ce00-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d510e704-124c-497f-89cb-732e27dd295a
+#EXTINF:-1 tvg-id="90210.us@SD"tvg-logo="https://i.imgur.com/xqo5PxO.png"group-title="USA Series":http-referrer="done":http-user-agent="",90210
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5240-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e62cae5-9404-4e52-8b20-c5fc2b453e9d
+#EXTINF:-1 tvg-id="AllRealitybyWEtv.us@SD"tvg-logo="https://i.imgur.com/HZTz5HJ.png"group-title="USA Series":http-referrer="done":http-user-agent="",All Reality by WE tv
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268071-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa6a05a1-3247-4bc5-bd09-5c548c69aecb
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD"tvg-logo="https://i.imgur.com/rKWLv48.png"group-title="USA Series":http-referrer="done":http-user-agent="",Antiques Road Show UK
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638e10de75c3a30007092693/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c24-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7a3d3806-9232-4410-9c3f-7b163aeadd84
+#EXTINF:-1 tvg-id="AreWeThereYet.us@SD"tvg-logo="https://i.imgur.com/3BJQiHP.png"group-title="USA Series":http-referrer="done":http-user-agent="",Are We There Yet?
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8b9328730900087c5324/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd1975a1-4578-4dba-893b-1a552eb054bc
+#EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us@SD"tvg-logo="https://i.imgur.com/WfKlGbX.png"group-title="USA Series":http-referrer="done":http-user-agent="",At Home with Family Handyman
+https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AuctionHunters.us@SD"tvg-logo="https://i.imgur.com/4SPOVN7.png"group-title="USA Series":http-referrer="done":http-user-agent="",Auction Hunters
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7952-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419716ea-defd-40f9-9cfe-81ca78138875
+#EXTINF:-1 tvg-id="BarRescue.us@SD"tvg-logo="https://i.imgur.com/WFgWGPb.png"group-title="USA Series":http-referrer="done":http-user-agent="",Bar Rescue
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2ee6c0fc88000877d26c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794332-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0960644d-9f55-4a3e-8c16-71ab199dc6b4
+#EXTINF:-1 tvg-id="Baywatch.us@US"tvg-logo="https://i.imgur.com/c2esKHg.png"group-title="USA Series":http-referrer="done":http-user-agent="",Baywatch
+https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="BlackInkCrew.us@SD"tvg-logo="https://i.imgur.com/QnuIVB6.png"group-title="USA Series":http-referrer="done":http-user-agent="",Black Ink Crew
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7e1b1a9a-b2d0-478b-bbba-1d01b5d4cf5c
+#EXTINF:-1 tvg-id="Cops.us@SD"tvg-logo="https://i.imgur.com/J3XO6V2.png"group-title="USA Series":http-referrer="done":http-user-agent="",Cops
+https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CSI.us@SD"tvg-logo="https://i.imgur.com/xLLNEfA.png"group-title="USA Series":http-referrer="done":http-user-agent="",CSI
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9224f41d5e100076db2b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df70-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dec120d8-b140-4915-a068-07986f2860d1
+#EXTINF:-1 tvg-id="DarkMatterTV.us@SD"tvg-logo="https://i.imgur.com/9K8T3ND.png"group-title="USA Series":http-referrer="done":http-user-agent="",Dark Matter TV
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US"tvg-logo="https://i.imgur.com/lMICupK.png"group-title="USA Series":http-referrer="done":http-user-agent="",Dog the Bounty Hunter
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c47-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca19e89b-4eb2-4f32-b300-8e26501d6dd2
+#EXTINF:-1 tvg-id="DontTellTheBride.us@SD"tvg-logo="https://i.imgur.com/h0bc3Fa.png"group-title="USA Series":http-referrer="done":http-user-agent="",Don't Tell The Bride
+https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FamilyTies.us@SD"tvg-logo="https://i.imgur.com/WJEkKCb.png"group-title="USA Series":http-referrer="done":http-user-agent="",Family Ties
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2d96a4ae-0762-4da9-b4eb-3198467ed4a1
+#EXTINF:-1 tvg-id="FearFactor.us@US"tvg-logo="https://i.imgur.com/CIYnLWz.png"group-title="USA Series":http-referrer="done":http-user-agent="",Fear Factor
+https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Gunsmoke.us@SD"tvg-logo="https://i.imgur.com/OxUS1Hq.png"group-title="USA Series":http-referrer="done":http-user-agent="",Gunsmoke
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e916affb29c60007211c8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1595266f-ecb0-4af0-bab6-40b7d0586999
+#EXTINF:-1 tvg-id="HallmarkDrama.us@SD"tvg-logo=""group-title="USA Series":http-referrer="done":http-user-agent="",Hallmark Drama
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HappyDays.us@SD"tvg-logo="https://i.imgur.com/LPjoORg.png"group-title="USA Series":http-referrer="done":http-user-agent="",Happy Days
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e917b5e354cf0007b97a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9cae61e-6671-48b9-8e36-973e2921034d
+#EXTINF:-1 tvg-id="HomeMadeNation.us@SD"tvg-logo="https://i.imgur.com/IdGNIoB.png"group-title="USA Series":http-referrer="done":http-user-agent="",Home.Made.Nation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5d04cbed-3ba0-4e3b-9baf-dc4eb838fa1c
+#EXTINF:-1 tvg-id="ImpossibleQuizShow.us@SD"tvg-logo="https://i.imgur.com/9EWffqx.png"group-title="USA Series":http-referrer="done":http-user-agent="",Impossible Quiz Show
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Investiga.us@SD"tvg-logo="https://i.imgur.com/Sb5adD7.png"group-title="USA Series":http-referrer="done":http-user-agent="",Investiga
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
+#EXTINF:-1 tvg-id="JerseyShore.us@SD"tvg-logo="https://i.imgur.com/SssCaj1.png"group-title="USA Series":http-referrer="done":http-user-agent="",Jersey Shore
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609bfa51fbecc1000733152e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53c01b5-86bc-43d2-afd7-b739724c937c
+#EXTINF:-1 tvg-id="JudgeNosey.us@US"tvg-logo="https://i.imgur.com/S4r98AB.png"group-title="USA Series":http-referrer="done":http-user-agent="",Judge Nosey
+https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveHipHop.us@SD"tvg-logo="https://i.imgur.com/rhGyebf.png"group-title="USA Series":http-referrer="done":http-user-agent="",Love & Hip Hop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11538a9-9480-4566-aae4-83bfe5898920
+#EXTINF:-1 tvg-id="Matlock.us@SD"tvg-logo="https://i.imgur.com/BGFUQsu.png"group-title="USA Series":http-referrer="done":http-user-agent="",Matlock
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da365f60bc8f0008a50f44/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f26df9e-4f5e-4183-a843-1996b0eaf551
+#EXTINF:-1 tvg-id="MBCDramaUSA.us@SD"tvg-logo="https://i.imgur.com/g5PWnqp.png"group-title="USA Series":http-referrer="done":http-user-agent="",MBC Drama USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD"tvg-logo="https://i.imgur.com/VFqfyfY.png"group-title="USA Series":http-referrer="done":http-user-agent="",Midsomer Murders
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92447ea1e2a000735ed33/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d95013f-2fa7-4fc2-a78f-993e5252da47
+#EXTINF:-1 tvg-id="MissionImpossible.us@SD"tvg-logo="https://i.imgur.com/QS5lg0t.png"group-title="USA Series":http-referrer="done":http-user-agent="",Mission Impossible
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634fe5afece2e60007c9d8b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7520-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=14cc27cc-2010-480a-b8ad-36e2575adbf7
+#EXTINF:-1 tvg-id="MST3K.us@US"tvg-logo="https://i.imgur.com/2LSdcga.png"group-title="USA Series":http-referrer="done":http-user-agent="",MST3K
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08f3602c-a3d5-4a4d-91f2-ec37a24d31a5
+#EXTINF:-1 tvg-id="Nosey.us@US"tvg-logo="https://i.imgur.com/i5doCQK.png"group-title="USA Series":http-referrer="done":http-user-agent="",Nosey
+https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PerryMason.us@SD"tvg-logo="https://i.imgur.com/rHUUAwW.png"group-title="USA Series":http-referrer="done":http-user-agent="",Perry Mason
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddc3485efec00085b0369/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3876-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=09f836b5-3c59-462d-95a2-726c229b62d4
+#EXTINF:-1 tvg-id="PlutoTVAventura.us@SD"tvg-logo="https://i.imgur.com/ae5cMo9.png"group-title="USA Series":http-referrer="done":http-user-agent="",Pluto TV Aventura
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVFantastic.us@SD"tvg-logo="https://i.imgur.com/MCu7YTA.png"group-title="USA Series":http-referrer="done":http-user-agent="",Pluto TV Fantastic
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2
+#EXTINF:-1 tvg-id="PlutoTVLives.us@US"tvg-logo="https://i.imgur.com/laupYwG.png"group-title="USA Series":http-referrer="done":http-user-agent="",Pluto TV Lives
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1452-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bffb5ed7-ddb0-4c7b-9457-e8614af008a2
+#EXTINF:-1 tvg-id="PlutoTVMilitary.us@SD"tvg-logo="https://i.imgur.com/O8VXZB4.png"group-title="USA Series":http-referrer="done":http-user-agent="",Pluto TV Military
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1453-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50b48d94-a9db-4b6e-9b51-1dab5c53dc35
+#EXTINF:-1 tvg-id="StarTrek.us@SD"tvg-logo="https://i.imgur.com/8cvXYiT.png"group-title="USA Series":http-referrer="done":http-user-agent="",Star Trek
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5
+#EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us@SD"tvg-logo="https://i.imgur.com/9bPcYIN.png"group-title="USA Series":http-referrer="done":http-user-agent="",Telemundo Telenovelas Clásicas
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
+#EXTINF:-1 tvg-id="TheAddamsFamily.us@SD"tvg-logo="https://i.imgur.com/Bl8X7EW.png"group-title="USA Series":http-referrer="done":http-user-agent="",The Addams Family
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9decccae-21fa-404d-9d81-56fffb2cc206
+#EXTINF:-1 tvg-id="TheAmazingRace.us@SD"tvg-logo="https://i.imgur.com/5yzPhRo.png"group-title="USA Series":http-referrer="done":http-user-agent="",The Amazing Race
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
+#EXTINF:-1 tvg-id="TheChallenge.us@SD"tvg-logo="https://i.imgur.com/MIXPSvC.png"group-title="USA Series":http-referrer="done":http-user-agent="",The Challenge
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a22a3efb510008245df0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5073-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=63985417-98be-4524-83cc-9a7c05387193
+#EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@SD"tvg-logo="https://i.imgur.com/RhD7gIW.png"group-title="USA Series":http-referrer="done":http-user-agent="",The Judge Judy Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92e536f28870007fa9b3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5077-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7542660-a0a4-415c-a70a-fae3199e0e29
+#EXTINF:-1 tvg-id="TheNewDetectives.us@US"tvg-logo="https://i.imgur.com/GLXg9ge.png"group-title="USA Series":http-referrer="done":http-user-agent="",The New Detectives
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5a0d0a98-404f-4ed2-acb8-799b2abcc5c6
+#EXTINF:-1 tvg-id="TheRifleman.us@SD"tvg-logo="https://i.imgur.com/60YejJs.png"group-title="USA Series":http-referrer="done":http-user-agent="",The Rifleman
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0e1d4cf-0753-4230-a880-33a0b95d08bf
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD"tvg-logo="https://i.imgur.com/IwJ5Pnc.png"group-title="USA Series":http-referrer="done":http-user-agent="",The Walking Dead Universe
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a
+#EXTINF:-1 tvg-id="ThisOldHouse.us@SD"tvg-logo="https://i.imgur.com/nrVLyE6.png"group-title="USA Series":http-referrer="done":http-user-agent="",This Old House
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9483c3b5-d057-42f4-8da0-57c5bf2344ab
+#EXTINF:-1 tvg-id="ThreesCompany.us@SD"tvg-logo="https://i.imgur.com/5bTwwpD.png"group-title="USA Series":http-referrer="done":http-user-agent="",Three's Company
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ca723a2bc49300081a8966/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7785-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b997b20-1713-4925-97ac-2a8fe6c85814
+#EXTINF:-1 tvg-id="TinyHouseNation.us@SD"tvg-logo="https://i.imgur.com/ai1P06C.png"group-title="USA Series":http-referrer="done":http-user-agent="",Tiny House Nation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540ff4f7312a40008297b59/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7787-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b64828a6-e38b-42b5-a91a-566c504d921c
+#EXTINF:-1 tvg-id="Tosh0.us@SD"tvg-logo="https://i.imgur.com/sXkluxg.png"group-title="USA Series":http-referrer="done":http-user-agent="",Tosh.0
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86
+#EXTINF:-1 tvg-id="UniversalCrime.us@East"tvg-logo="https://i.imgur.com/OwSlGMu.png"group-title="USA Series":http-referrer="done":http-user-agent="",Universal Crime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc200-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f8ea05b6-c631-4463-8491-a4394e906d3c
+#EXTINF:-1 tvg-id="UnsolvedMysteries.us@US"tvg-logo="https://i.imgur.com/De3khrX.png"group-title="USA Series":http-referrer="done":http-user-agent="",Unsolved Mysteries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc202-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d38cc26-1fa3-46f8-bb13-79fb665ae910
+#EXTINF:-1 tvg-id="WeTV.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/512px-We_TV_logo_2014.svg.png"group-title="USA Series":http-referrer="done":http-user-agent="",We TV
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="WildNOut.us@SD"tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true"group-title="USA Series":http-referrer="done":http-user-agent="",Wild 'N Out
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3730-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a03cd523-0223-48b3-aeb7-ce7ca6c2de02
+#EXTINF:-1 tvg-id="30AGolfKingdom.us@SD"tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg"group-title="USA Sports":http-referrer="done":http-user-agent="",Golf Kingdom
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD"tvg-logo="https://i.imgur.com/V6Kaqha.png"group-title="USA Sports":http-referrer="done":http-user-agent="",ACCDN
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD"tvg-logo="https://i.imgur.com/TpCkbkT.png"group-title="USA Sports":http-referrer="done":http-user-agent="",ACCN 
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD"tvg-logo="https://i.imgur.com/uJosqHh.png"group-title="USA Sports":http-referrer="done":http-user-agent="",BeIN SPORTS XTRA (1080p) [Geo-blocked]
+https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="BEKSports.us@West"tvg-logo="https://i.imgur.com/1l3t5jd.png"group-title="USA Sports":http-referrer="done":http-user-agent="",BEK TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BellatorMMA.us@SD"tvg-logo="https://i.imgur.com/VBKoLHk.png"group-title="USA Sports":http-referrer="done":http-user-agent="",Bellator MMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD"tvg-logo="https://i.imgur.com/A8CnA8g.png"group-title="USA Sports":http-referrer="done":http-user-agent="",CBS Sports Network USA
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD"tvg-logo="https://i.imgur.com/HiBrysh.png"group-title="USA Sports":http-referrer="done":http-user-agent="",ESPN U 
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelRacing.us@SD"tvg-logo=""group-title="USA Sports":http-referrer="done":http-user-agent="",FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png"group-title="USA Sports":http-referrer="done":http-user-agent="",FanDuel Sports Network
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelTV.us@SD"tvg-logo=""group-title="USA Sports":http-referrer="done":http-user-agent="",FanDuel TV 
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png"group-title="USA Sports":http-referrer="done":http-user-agent="",FIFA+ United States 
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="FITE247.us@SD"tvg-logo="https://i.imgur.com/ESV6qgH.png"group-title="USA Sports":http-referrer="done":http-user-agent="",FITE 24/7
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD"tvg-logo="https://i.imgur.com/Lgux6Ik.png"group-title="USA Sports":http-referrer="done":http-user-agent="",Golf Channel
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-id="KCMNLD6.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png"group-title="USA Sports":http-referrer="done":http-user-agent="",KCMN-LD6
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.us@SD"tvg-logo="https://i.imgur.com/ym3su2J.png"group-title="USA Sports":http-referrer="done":http-user-agent="",MLB
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD"tvg-logo="https://i.imgur.com/sA5V39D.png"group-title="USA Sports":http-referrer="done":http-user-agent="",MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD"tvg-logo="https://i.imgur.com/MTgUVKx.png"group-title="USA Sports":http-referrer="done":http-user-agent="",NBC Sports Bay Area (720p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 tvg-id="NBCSportsBoston.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png"group-title="USA Sports":http-referrer="done":http-user-agent="",NBC Sports Boston (1080p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png"group-title="USA Sports":http-referrer="done":http-user-agent="",NBC Sports Philadelphia (720p) [Not 24/7]
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 tvg-id="NFLChannel.us@SD"tvg-logo="https://i.imgur.com/mPGtwAP.png"group-title="USA Sports":http-referrer="done":http-user-agent="",NFL Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png"group-title="USA Sports":http-referrer="done":http-user-agent="",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NitroCircus.us@SD"tvg-logo=""group-title="USA Sports":http-referrer="done":http-user-agent="",Nitro Circus 
+https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us@SD"tvg-logo="https://i.imgur.com/0pDy6f4.png"group-title="USA Sports":http-referrer="done":http-user-agent="",Pluto TV Deportes 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="LuchaLibreAAA.us@SD"tvg-logo="https://i.imgur.com/Nc7K060.png"group-title="USA Sports":http-referrer="done":http-user-agent="",Pluto TV Lucha Libre AAA (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
+#EXTINF:-1 tvg-id="SportsGrid.us@SD"tvg-logo="https://i.imgur.com/ulGKX30.png"group-title="USA Sports":http-referrer="done":http-user-agent="",SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png"group-title="USA Sports":http-referrer="done":http-user-agent="",SportsNet New York
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-id="Stadium.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png"group-title="USA Sports":http-referrer="done":http-user-agent="",Stadium
+https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD"tvg-logo="https://i.imgur.com/tsljAnY.png"group-title="USA Sports":http-referrer="done":http-user-agent="",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD"tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg"group-title="USA Sports":http-referrer="done":http-user-agent="",TVS Bowling Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us@SD"tvg-logo="https://i.imgur.com/auR0Mi6.png"group-title="USA Sports":http-referrer="done":http-user-agent="",TVS Classic Sports
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us@SD"tvg-logo=""group-title="USA Sports":http-referrer="done":http-user-agent="",TVS Sports Bureau
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us@SD"tvg-logo="https://i.imgur.com/7zYIbU1.png"group-title="USA Sports":http-referrer="done":http-user-agent="",TVS Turbo
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us@SD"tvg-logo="https://i.imgur.com/LmkNt3v.png"group-title="USA Sports":http-referrer="done":http-user-agent="",Unbeaten 
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="W14DKD5.us@SD"tvg-logo="https://i.imgur.com/D4mZ8ll.png"group-title="USA Sports":http-referrer="done":http-user-agent="",W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 tvg-id="WATCDT1.us@SD"tvg-logo="https://i.imgur.com/FhIRe7O.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Atlanta's 57 WATC 57.1 (720p)
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1 tvg-id="WATCDT2.us@SD"tvg-logo="https://i.imgur.com/RAfuLul.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Atlanta's 57 WATC TOO 57.2 (720p)
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
+#EXTINF:-1 tvg-id="BET.us@East"tvg-logo="https://i.imgur.com/copIbc9.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",BET East
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",BET Jams
+https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us@SD"tvg-logo="https://i.imgur.com/VeuTWUb.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",BET Soul
+https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="BHTV10.us@SD"tvg-logo="https://i.imgur.com/NRrJ6xb.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Beverly Hills Television 10 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
+#EXTINF:-1 tvg-id="BHTV35.us@SD"tvg-logo="https://i.imgur.com/3Gqc5f2.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Beverly Hills Television 35 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Big Ten Network
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Bounce
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East"tvg-logo="https://i.imgur.com/JmTIRLF.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Bravo East
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="CTV.us@SD"tvg-logo="https://i.imgur.com/N5uiIJo.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Calabasas Channel (480p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
+#EXTINF:-1 tvg-id="CelebritySceneTV.us@SD"tvg-logo="https://i.imgur.com/n36jriB.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Celebrity Scene TV (720p)
+https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+#EXTINF:-1 tvg-id="CCTV.us@SD"tvg-logo=""group-title="USA Undefined":http-referrer="done":http-user-agent="",Charlotte County CC-TV (Charlotte County FA) (720p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
+#EXTINF:-1 tvg-id="WRDELD1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",CoastTV NBC (WRDE-LD) (720p) [Not 24/7]
+https://live.field59.com/wrde/wrde1/playlist.m3u8
+#EXTINF:-1 tvg-id="ExtremaTV.us@SD"tvg-logo="https://i.imgur.com/Z1QVkqu.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="CMAPChannel19.us@SD"tvg-logo="https://i.imgur.com/wlYUEYc.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Gilroy CMAP TV Channel 19 (720p)
+https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="INFAST.us@SD"tvg-logo="https://i.imgur.com/VwAMqA7.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",INFAST (1080p)
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="KNLJDT1.us@SD"tvg-logo="https://i.imgur.com/42UdwD0.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",KNLJ-DT1 (720p)
+https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8
+#EXTINF:-1 tvg-id="TAPTVChannel23.us@SD"tvg-logo="https://i.imgur.com/5mhYHtD.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Lompoc TAP TV Channel 23 (720p)
+https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MTC.us@SD"tvg-logo="https://i.postimg.cc/yYSCmDZ5/mtc.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",MTC TV
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="WJARDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/512px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",NBC 10 Providence MA (1080p)
+https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
+#EXTINF:-1 tvg-id="WGBADT1.us@SD"tvg-logo="https://i.imgur.com/bzgfmRL.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",NBC 26 Green Bay WI (WGBA-DT1) (720p)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 tvg-id="WKPCDT3.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"group-title="USA Undefined":http-referrer="done":http-user-agent="",PBS KET KY (480p)
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 tvg-id="WKPCDT2.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"group-title="USA Undefined":http-referrer="done":http-user-agent="",PBS KET2 (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1 tvg-id="WMPTDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"group-title="USA Undefined":http-referrer="done":http-user-agent="",PBS MPT Baltimore MD (WMPB) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-id="RealWild.us@SD"tvg-logo="https://i.imgur.com/T9HHmAO.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Real Wild (1080p)
+https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WCIUDT5.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannel.us@SD"tvg-logo="https://i.imgur.com/0F1c7x4.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",The Cowboy Channel
+https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ViceNews.us@SD"tvg-logo="https://i.imgur.com/QWPJQnr.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Vice News (1080p)
+https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VICETV.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",Vice TV (1080p)
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WFTXDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",WFTX News Fort Myers FL (720p)
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1 tvg-id="WHBQDT1.us@SD"tvg-logo=""group-title="USA Undefined":http-referrer="done":http-user-agent="",WHBQ-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="WNYWDT1.us@SD"tvg-logo="https://i.imgur.com/zZd9Tkt.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",WNYW-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldHarvestTV.us@SD"tvg-logo="https://i.imgur.com/xtbkDDN.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",World Harvest TV (360p)
+https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WPECDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",WPEC-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WPIXDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",WPIX-DT1
+https://streamer1.nexgen.bz/WPIX/index.m3u8
+#EXTINF:-1 tvg-id="WPTVDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",WPTV News West Palm Beach FL (720p)
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+#EXTINF:-1 tvg-id="WSBSDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",WSBS-DT1 (1080p)
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+#EXTINF:-1 tvg-id="WTTGDT1.us@SD"tvg-logo="https://i.imgur.com/ktLKla7.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",WTTG-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WTVTDT1.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",WTVT-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WTXFDT1.us@SD"tvg-logo="https://i.imgur.com/fRjmk5r.png"group-title="USA Undefined":http-referrer="done":http-user-agent="",WTXF-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8

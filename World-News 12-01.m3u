@@ -547,15 +547,6 @@ https://cdn-1.pishow.tv/live/280/master.m3u8
 #EXTINF:-1 tvg-id="HumaBetangTV.id@SD"tvg-logo="https://i.imgur.com/xBTqOEu.png"group-title="News":http-referrer="":http-user-agent="checked",Huma Betang TV (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=checked
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"group-title="News":http-referrer="":http-user-agent="checked",I24 News English (720p)
-#EXTVLCOPT:http-user-agent=checked
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"group-title="News":http-referrer="":http-user-agent="checked",I24 News French (720p)
-#EXTVLCOPT:http-user-agent=checked
-https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-id="i24NEWSHebrew.il@SD"tvg-logo="https://www.i24news.tv/images/favicon.png"group-title="News":http-referrer="":http-user-agent="checked",i24NEWS Hebrew
-#EXTVLCOPT:http-user-agent=checked
-https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="IBC24.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_IBC24/images/LOGO_HD/image.png"group-title="News":http-referrer="":http-user-agent="checked",IBC 24 (720p)
 #EXTVLCOPT:http-user-agent=checked
 https://cdn-3.pishow.tv/live/220/master.m3u8
@@ -569,24 +560,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-user-agent=checked
 #EXTVLCOPT:http-referrer=https://newsxott.in/embed.html?channel=indianewsnational
 https://newsxott.in/hls/indianewsnational.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsGujarati.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Gujarat.png"group-title="News":http-referrer="":http-user-agent="checked",India News Gujarati (1080p)
-#EXTVLCOPT:http-user-agent=checked
-https://newsxott.in/hls/indianewsgujarat.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsHaryana.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Haryana.png"group-title="News":http-referrer="":http-user-agent="checked",India News Haryana (1080p)
-#EXTVLCOPT:http-user-agent=checked
-https://newsxott.in/hls/indianewsharyana.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png"group-title="News":http-referrer="":http-user-agent="checked",India News Madhya Pradesh/Chhattisgarh (576p)
-#EXTVLCOPT:http-user-agent=checked
-https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in@SD"tvg-logo="https://i.imgur.com/Mu1MPvt.png"group-title="News":http-referrer="":http-user-agent="checked",India News Punjab/Himachal (1080p)
-#EXTVLCOPT:http-user-agent=checked
-https://newsxott.in/hls/indianewspunjab.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsRajasthan.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Rajasthan.png"group-title="News":http-referrer="":http-user-agent="checked",India News Rajasthan (576p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=checked
-http://103.140.254.2:3500/live/513.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsUttarPradesh.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png"group-title="News":http-referrer="":http-user-agent="checked",India News Uttar Pradesh (1080p)
-#EXTVLCOPT:http-user-agent=checked
-https://newsxott.in/hls/indianewsupuk.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png"group-title="News":http-referrer="":http-user-agent="checked",India Today (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=checked
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
@@ -618,9 +591,6 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="IraneFardaTV.uk@SD"tvg-logo="https://i.imgur.com/ixgcgZY.png"group-title="News":http-referrer="":http-user-agent="checked",IraneFarda TV (720p)
 #EXTVLCOPT:http-user-agent=checked
 https://hls.iranfarda.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="JK24x7News.in@SD"tvg-logo="https://i.imgur.com/VIPPB6t.png"group-title="News":http-referrer="":http-user-agent="checked",JK 24x7 News (720p)
-#EXTVLCOPT:http-user-agent=checked
-https://live.gulistannews.in/hls/jk.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png"group-title="News":http-referrer="":http-user-agent="checked",Jovem Pan News (JP News) (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=checked
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
@@ -630,9 +600,6 @@ https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 tvg-id="KalingaTV.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALINGA_TV/images/LOGO_HD/image.png"group-title="News":http-referrer="":http-user-agent="checked",Kalinga TV (720p)
 #EXTVLCOPT:http-user-agent=checked
 https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="KannurVision.in@SD"tvg-logo="https://i.imgur.com/FCXqPer.png"group-title="News":http-referrer="":http-user-agent="checked",Kannur Vision (1080p)
-#EXTVLCOPT:http-user-agent=checked
-https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in@SD"tvg-logo="https://i.imgur.com/qfINs2r.png"group-title="News":http-referrer="":http-user-agent="checked",Kashish News (720p)
 #EXTVLCOPT:http-user-agent=checked
 https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
@@ -642,9 +609,6 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks
 #EXTINF:-1 tvg-id="KolalnasTV.ps@SD"tvg-logo="https://i.imgur.com/OyMxcRG.png"group-title="News":http-referrer="":http-user-agent="checked",Kolalnas TV
 #EXTVLCOPT:http-user-agent=checked
 https://htvint.mada.ps/kolalnas/index.m3u8
-#EXTINF:-1 tvg-id="KolkataTV.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KOLKATA_TV/images/LOGO_HD/LOGO_HD_image.png"group-title="News":http-referrer="":http-user-agent="checked",Kolkata TV (1080p)
-#EXTVLCOPT:http-user-agent=checked
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
 #EXTINF:-1 tvg-id="KTRKDT1247News.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png"group-title="News":http-referrer="":http-user-agent="checked",KTRK TV ABC 13 News (720p)
 #EXTVLCOPT:http-user-agent=checked
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
@@ -666,9 +630,6 @@ https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@HD"tvg-logo="https://i.imgur.com/DED8EXs.png"group-title="News":http-referrer="":http-user-agent="checked",LCI HD
 #EXTVLCOPT:http-user-agent=checked
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
-#EXTINF:-1 tvg-id="LeMediaTV.fr@SD"tvg-logo="https://i.imgur.com/OK20oyl.png"group-title="News":http-referrer="":http-user-agent="checked",Le Media TV
-#EXTVLCOPT:http-user-agent=checked
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
 #EXTINF:-1 tvg-id="LemanBleu.ch@SD"tvg-logo="https://i.postimg.cc/QCKvxn5f/lemanbleu.png"group-title="News":http-referrer="":http-user-agent="checked",Leman Bleu (1080p)
 #EXTVLCOPT:http-user-agent=checked
 https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
@@ -690,9 +651,6 @@ https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-id="LokshahiNews.in@SD"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LOKSHAHI/images/LOGO_HD/image.png"group-title="News":http-referrer="":http-user-agent="checked",Lokshahi News (1080p)
 #EXTVLCOPT:http-user-agent=checked
 https://see.lokshahi.live/live/index.m3u8
-#EXTINF:-1 tvg-id="LyonCapitaleTV.fr@SD"tvg-logo="https://i.imgur.com/4WfnEaj.png"group-title="News":http-referrer="":http-user-agent="checked",Lyon Capitale TV
-#EXTVLCOPT:http-user-agent=checked
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:-1 tvg-id="M95TelevisionMarbella.es@SD"tvg-logo="https://i.imgur.com/RzAkP1V.png"group-title="News":http-referrer="":http-user-agent="checked",M95 Televisión Marbella (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=checked
 https://limited2.todostreaming.es/live/m95-livestream.m3u8

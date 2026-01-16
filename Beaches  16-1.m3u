@@ -49,18 +49,10 @@ https://stream.n1.au.swellnet.com/surfcams/magiclands.stream/chunks.m3u8
 https://stream.n1.au.swellnet.com/surfcams/ocean-grove.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Victoria",Portsea
 https://stream.n1.au.swellnet.com/surfcams/portsea.stream/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Victoria",Portsea East
-https://stream.n1.au.swellnet.com/surfcams/portsea-east.stream/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Victoria",Portsea West
-https://stream.n1.au.swellnet.com/surfcams/portsea-west.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Victoria",Queenscliff
 https://stream.n1.au.swellnet.com/surfcams/queenscliff.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Victoria",Rye
 https://stream.n1.au.swellnet.com/surfcams/rye.stream/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Victoria",Sign Posts
-https://stream.n1.au.swellnet.com/surfcams/sign-posts.stream/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Victoria",Smiths Beach
-https://stream.n1.au.swellnet.com/surfcams/smiths-beach.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Victoria",St Kilda Beach
 https://stream.n1.au.swellnet.com/surfcams/st-kilda.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Victoria",St Kilda Marina
@@ -189,16 +181,14 @@ https://stream.n1.au.swellnet.com/surfcams/avoca-beach.stream/chunks.m3u8
 https://streaming-au.coastalcoms.com/cw/ballinarmscamera.stream/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Bermagui
 https://streaming-au.coastalcoms.com/cw/bermaguicamera.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Bondi Beach
-https://s90.ipcamlive.com/streams/5axtgkdaef9jovrbv/stream.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Bondi North
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Bondi Beach - North
 https://stream.n1.au.swellnet.com/surfcams/north-bondi.stream/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Bondi South
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Bondi  Beach - South
 https://stream.n1.au.swellnet.com/surfcams/south-bondi.stream/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Brunswick Heads Bar 1
-https://streaming-au.coastalcoms.com/cw/brunswickheadscamera.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Brunswick Heads Bar 2
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Brunswick Heads
 https://d1nm4r8e5x1rwd.cloudfront.net/cw/brunswickheadscamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Byron Bay
+https://stream.n1.au.swellnet.com/surfcams/byron-bay.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Cabarita Beach
 https://stream.n1.au.swellnet.com/surfcams/cabarita-beach.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Cabarita North
@@ -263,8 +253,6 @@ https://stream.n1.au.swellnet.com/surfcams/the-alley.stream/chunks.m3u8
 https://stream.n1.au.swellnet.com/surfcams/the-pass.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Thirroul North
 https://stream.n1.au.swellnet.com/surfcams/thirroul-north.stream/chunks.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Tweed Heads
-https://stream.n1.au.swellnet.com/surfcams/tweed-bar.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Tweed Heads
 https://d1nm4r8e5x1rwd.cloudfront.net/cw/tweedriverbarcamera.stream/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Wamberal

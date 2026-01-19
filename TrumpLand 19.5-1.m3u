@@ -1,0 +1,13 @@
+﻿#EXTM3U 
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/55RpaF3.png"group-title="Trumpland",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/T2KLGqyF/iranpress.png"group-title="Trumpland",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png"group-title="Trumpland",Denmark DRTV
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png"group-title="Trumpland",Palestine Al Yawm
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/c2bwn4G.png"group-title="Trumpland",Palestine Al Najah
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/P50VjRX.png"group-title="Trumpland",Venezuela Telesur
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8

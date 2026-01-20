@@ -1,0 +1,20 @@
+﻿#EXTM3U 
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/ktLKla7.png"group-title="Trumpland",FOX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/ktLKla7.png"group-title="Trumpland
+",ABC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"group-title="Trumpland",NBC
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"group-title="Trumpland",CBS
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/55RpaF3.png"group-title="Trumpland",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/T2KLGqyF/iranpress.png"group-title="Trumpland",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png"group-title="Trumpland",Denmark DRTV
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/HLTzPPkf/palestinealyawm.png"group-title="Trumpland",Palestine Al Yawm
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/P50VjRX.png"group-title="Trumpland",Venezuela Telesur
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8

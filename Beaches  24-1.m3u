@@ -1,16 +1,22 @@
 ﻿#EXTM3U 
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Khao Lak : Thailand
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Thailand
 https://video1.earthcam.com/myearthcam/63dc27039d662a666b332e0093af092c.flv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Norway
 https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/39e2c420-2d35-4fed-bad0-3cb5e55e06e9/75468bd1-7dfb-4995-9a16-db2cf981cc90.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Norway
-https://d2u9ftrwwkx3r3.cloudfront.net/a982db2ae64227223424d3e7b2a8cea6/a982db2ae64227223424d3e7b2a8cea6-480p.mp4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Norway
-https://d2u9ftrwwkx3r3.cloudfront.net/0b1fac6d225b0ab62529220e758429ce/0b1fac6d225b0ab62529220e758429ce-240p.mp4
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",
-
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Greece
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/1f7586d0-31ce-499d-806f-418af7410db5/2f52296d-80dd-4672-8eda-571ad6fa7694.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Greece
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/9303d3ab-b716-4dcc-97e4-b92f1e2ab14a/b93c7765-60b1-451c-9d1d-86e4c99ebd63.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Greece
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b50208c3-4307-40e4-9444-54ec8d4bea7c/bf0386f4-1be0-4e76-99d2-1b1b66386aa5.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Yemen
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/7598f961-ad58-4c59-842c-cecf6f10d6fb/096aef99-a3e0-490b-a66b-07e8f555836b.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Yemen
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b50208c3-4307-40e4-9444-54ec8d4bea7c/bf0386f4-1be0-4e76-99d2-1b1b66386aa5.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Mexico
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/b6a08720-86cc-42a9-b381-45c47ff5ba62/3c314edf-b345-4b32-9d41-5f08af507ac8.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Overseas",Dubai
+https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b50208c3-4307-40e4-9444-54ec8d4bea7c/bf0386f4-1be0-4e76-99d2-1b1b66386aa5.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Western Australia",Brighton
 https://stream.n1.au.swellnet.com/surfcams/brighton.stream/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Western Australia",Contacio

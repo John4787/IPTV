@@ -1,0 +1,48 @@
+﻿#EXTM3U 
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lodgetorreypines.com/themes/custom/ltp/img/logo_footer_2x_1.png"group-title="Golf Cams",Torrey Pines
+https://b15.hdrelay.com/camera/ec868cde-353a-4769-8a8f-b8a3c9070b3f/relay/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://blog.ncga.org/hs-fs/hubfs/503-Apr-03-2025-06-19-25-1843-PM.png?width=500&height=500&name=503-Apr-03-2025-06-19-25-1843-PM.png"group-title="Golf Cams",Pebble Beach : 1st Tee
+https://b15.hdrelay.com/camera/CID_VTLN00000080/relay/chunklist_w1607288203.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://blog.ncga.org/hs-fs/hubfs/503-Apr-03-2025-06-19-25-1843-PM.png?width=500&height=500&name=503-Apr-03-2025-06-19-25-1843-PM.png"group-title="Golf Cams",Pebble Beach : 17th Green
+https://b15.hdrelay.com/camera/CID_ERCC00000071/relay/chunklist_w2135618992.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://blog.ncga.org/hs-fs/hubfs/503-Apr-03-2025-06-19-25-1843-PM.png?width=500&height=500&name=503-Apr-03-2025-06-19-25-1843-PM.png"group-title="Golf Cams",Pebble Beach : 18th Green
+https://b15.hdrelay.com/camera/CID_VTSJ00000081/relay/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://blog.ncga.org/hs-fs/hubfs/503-Apr-03-2025-06-19-25-1843-PM.png?width=500&height=500&name=503-Apr-03-2025-06-19-25-1843-PM.png"group-title="Golf Cams",Pebble Beach : Putting Green
+https://b15.hdrelay.com/camera/CID_AYOU0000007F/relay/chunklist_w1778084154.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTNXH5jLJLPSrmvq06zs_Sl-wRQGcei-q8gQ&s"group-title="Golf Cams",Pacific Dunes
+https://b15.hdrelay.com/camera/411b8f8a-77e5-47cd-8ebf-920f8ca497bc/relay/chunklist_w2043602396.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://dmkgolfdesign.com/wp-content/uploads/2017/05/Bandon-Dunes-logo.gif"group-title="Golf Cams",Bandon Dunes
+https://b15.hdrelay.com/camera/CID_FBUA0000005F/relay/chunklist_w1578057897.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.pinehurst.com/wp-content/themes/pinehurst/images/logos/PB_1895_Logo_White.svg"group-title="Golf Cams",Pinehurst NC
+https://media-hls-az1.wral.com/livehttporigin/_definst_/mp4:pinehurst.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://lightspeedweb.site/butternutcreek/wp-content/uploads/sites/99/2022/09/buttercreeklogo.png"group-title="Golf Cams",Butternut Creek
+https://stream.resortcams.com/live/butternut.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://golfatkapalua.com/wp-content/uploads/2023/08/kapalua-logo.png"group-title="Golf Cams",Kapalua
+
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.dldoc3.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt14616.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wixstatic.com/media/e85206_f5303e62b12343cbb3f6de3477af1658~mv2.jpg/v1/fill/w_522,h_524,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/valley%20view%20logo.jpg"group-title="Golf Cams",Valley View
+https://mia.rtsp.me/jsz34XRpR4h67j3UC-lVQA/1769355052/hls/d3QKNNkT.m3u8?ip=120.153.135.13
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.monarchbeachgolf.com/wp-content/uploads/sites/8904/2023/06/MBRGolfLogo_w.png?resize=655,220"group-title="Golf Cams",Monarch Beach
+https://live.hdontap.com/hls/hosb1/fulkra_monarch_resort_golf.stream/playlist.m3u8?t=x57gRiIcKPXJDceJMXNo1Q&e=1769394743
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://website-media.com/d3corp/ocean-city-live-2024/2016/03/25121619/logo.png"group-title="Golf Cams",Ocean City
+https://s33.ipcamlive.com/streams/21e1bwnsrzzaajgtu/stream.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://t4.ftcdn.net/jpg/06/16/12/61/360_F_616126121_mrm5owYNMcio51TsqSisoL6T4NfPHV95.jpg"group-title="Trumpland",CBS
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://t4.ftcdn.net/jpg/06/16/12/61/360_F_616126121_mrm5owYNMcio51TsqSisoL6T4NfPHV95.jpg"group-title="Trumpland",ABC
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://t4.ftcdn.net/jpg/06/16/12/61/360_F_616126121_mrm5owYNMcio51TsqSisoL6T4NfPHV95.jpg"group-title="Trumpland",NBC
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://t4.ftcdn.net/jpg/06/16/12/61/360_F_616126121_mrm5owYNMcio51TsqSisoL6T4NfPHV95.jpg"group-title="Trumpland",FOX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NPHryNj3iWlV4De3_xhOXIgj90kRMzsjwA&s"group-title="Trumpland",BBC
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://t4.ftcdn.net/jpg/06/16/12/61/360_F_616126121_mrm5owYNMcio51TsqSisoL6T4NfPHV95.jpg"group-title="Trumpland",Canada NBC
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWjTA7s65U9Yx8BB9fmetZQSONJ6M6LdhxA&s"group-title="Trumpland",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://image.roku.com/developer_channels/prod/bbb8b87fa788b65fd3021cb6f65e1cf4d1f33f2da73eeb69efa21e3d54eec231.png"group-title="Trumpland",Denmark DRTV
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgF75XID3gXT948xTemUTD9n29Bkti8e4tvQ&s"group-title="Trumpland",Palestine Al Yawm
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20220719221045"group-title="Trumpland",Venezuela Telesur
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8

@@ -77,11 +77,13 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA/images/LOGO_HD/image.png"group-title="World News",Bangladesh
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://climatejusticealliance.org/wp-content/uploads/2019/12/reuters-logo.png"group-title="World News",Reuters
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXahUTzvEPln49RAQ0satVfgDS_OoLEaXcg&s"group-title="World News",CNN International
+https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/2d57c031-cead-4649-a7bd-1cf99c28ac16/2.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQFZzQE2e1-U-A/company-logo_200_200/company-logo_200_200/0/1630555298769/the_swag_logo?e=2147483647&v=beta&t=rIqqkjUn5lPjTPulE4_2gNLM6ecrDh0nWHGrt2sufIc"group-title="Resorts",The Swag : NC
 https://stream.resortcams.com/live/swag.stream/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.highlandsoutpost.com/wp-content/uploads/2022/01/winter_1.png"group-title="Resorts",Scaly Mountain
-https://stream.resortcams.com/live/scalymountain.stream/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQLavW-ICBpYZ3lcZ5FCJIrSihmOWoEKG7nQ&s"group-title="Resorts",Scaly Mountain
 https://stream.resortcams.com/live/scalymountain.stream/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4BnAo7gf9qNmFbcMkwCY7fUz6w8T7DOdNjw&s"group-title="Resorts",Nantahala
 https://stream.resortcams.com/live/nantahala.stream/playlist.m3u8
@@ -105,7 +107,13 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGkc368n4advAdibBjkU9sECNZrDd9i2sPPA&s"group-title="USA News",CBS
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://deadline.com/wp-content/uploads/2023/08/MSNBC-Logo.jpg"group-title="USA News",MSNBC
+https://cdn.livenewsplayer.com/hls/msnbcsd/msnbcsd/chunklist_w1158735650_tkbmV3enN0YXJ0dGltZT0xNzcxNzk4MjA1Jm5ld3plbmR0aW1lPTE3NzE4MDU0MDUmbmV3emhhc2g9NnNvckRob3g2emZ2TUJOQzRXTVJlOUZ4VlltdHdaWmtGVFZuREJkbTlrVWpCRjhYLWJ3UkxPWHdpQVE2SHBPWFNKVlpZTkZhLWRnLWc0bFFrMWlabWc9PQ==.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png"group-title="USA News",CNBC
+https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcQDpFZ4hAvCz6d89e5-v2MziwsWpWAmLQQ&s"group-title="USA News",PBS
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/bewitched/images/a/a3/ABC-Color-Logo-logos-34761810-430-394.png/revision/latest?cb=20181018173705"group-title="USA News",ABC
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjtmOD_NsvIqJ3sm0j16yQ0ROaclnG2AHgw&s"group-title="USA News",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/ebe16ba8-492c-4327-9c24-609dcbb3f98e/2.m3u8

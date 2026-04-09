@@ -21,8 +21,6 @@ https://live.playstop.me/LS-63503-4/chunklist_b1196000.m3u8
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png"group-title="World News",India 2
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-
-
 #EXTINF:-1 tvg-name=""tvg-id="spoken english"tvg-logo="https://i.imgur.com/8MRNFb9.png"group-title="World News",Germany
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="spoken english"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png"group-title="World News",France
@@ -31,14 +29,12 @@ https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-fr
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="spoken english"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NPHryNj3iWlV4De3_xhOXIgj90kRMzsjwA&s"group-title="World News",BBC World
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="spoken english"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1280px-CNN_International_logo.svg.png?_=20220330162248"group-title="World News",CNN International
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/f8WcqRY.png"group-title="World News",Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png
-"group-title="World News",Turkey
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/Kj94xjPP/kurdsatnews.png"group-title="World News",Kurdistan
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/erZ0Ol1.png"group-title="World News",Kuwait
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/Jdy3WNm.png"group-title="World News",Sth Korea
@@ -77,6 +73,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="spoken english"tvg-logo="http://www.freeintertv.com/modules/Main/image_1/cnbc_live.jpg"group-title="USA News",CNBC
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="spoken english"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1280px-CNN_International_logo.svg.png?_=20220330162248"group-title="USA News",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="spoken english"tvg-logo="https://n18syndication"group-title="USA TV",TBA
 https://n18syndication
 #EXTINF:-1 tvg-name=""tvg-id="spoken english"tvg-logo="https://n18syndication"group-title="USA TV",TBA

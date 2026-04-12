@@ -53,17 +53,13 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/P50VjRX.png"group-title="World News",Venezuela
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/1hHW3IK.png"group-title="Interesting",CCX Media
-http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/OtT1qYE.png"group-title="Interesting",Pacific Island Network
-https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/72JmyjM.png"group-title="Interesting",NatureTime
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/EbMK3Ph.png"group-title="Interesting",Terra Mater WILD
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/nGSsUd4.png"group-title="Interesting",BBC
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/nGSsUd4.png"group-title="Interesting",BBC Wild
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/x57klfS.png"group-title="Interesting",USA
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/x57klfS.png"group-title="Interesting",USA Doco
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png"group-title="Interesting",Singapore
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
@@ -71,7 +67,7 @@ https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png"group-title="Interesting",Netherlands
 https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png"group-title="Interesting",Iran
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png"group-title="Interesting",Iran Doco
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/EbMK3Ph.png"group-title="Interesting",Germany
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8

@@ -47,6 +47,8 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 https://cdn.livenewsplayer.com/hls/msnbcsd/msnbcsd/playlist.m3u8?newzstarttime=1778019043&newzendtime=1778026243&newzhash=Mp985naDqkU_oPInj78pppFei6cLFa2AP9WzULWi3y6NCJhUiyeo6X4lqNbuxjCIR-UTJvoBDwX_angum1hTVQ==
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/37K0AZX.png"group-title="World News",USA : Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/ss/scripps-news-us.png"group-title="World News",USA: Scripps News
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.3newsnow.com%2F&ad.cust_params=%26inv%3Dss%3A%20on-domain%3A%20ew%20scripps%3A%20kmtv%3A%20desktop%3A%20unknown%3A%20web%3A%20live%26user_id%3Dundefined%26pxconfig%3Dweb-live
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Travel_Channel_2010-2011.png/revision/latest?cb=20250108213235"group-title="Interesting",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png"group-title="Interesting",Adventure Earth
@@ -55,8 +57,6 @@ https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/
 https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png"group-title="Interesting",BBC Wild
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/ff/filinfo-tv-bf.png"group-title="Interesting",Burkina Faso
-https://afl-vod-multi-005-uptls.akamaized.net/packaging3_f7d8f/out/v1/7e8a160b3a5a4f88a9ccad24d94ac97f/ef1d806899ce413791eb3795aa40401b/b4a356d5797943a38e2db18bf7d1a781/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/Zfe2f5j.png"group-title="Interesting",Chile
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/JHv0WxM.png"group-title="Interesting",China 1
@@ -119,18 +119,24 @@ https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 https://live.kingdom-tv.com:3545/stream/play.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/8rKNuS6.png"group-title="Interesting",BRICS English
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/aa/alex-jones-network-us.png"group-title="Interesting",Alex Jones Network
+https://rumble.com/live-hls-dvr/77eixi/playlist.m3u8?
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png"group-title="Interesting",Autentic Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/kkm7VqV.png"group-title="Interesting",Antiques Road Trip
 https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/wFqhK3p.png"group-title="Interesting",Gringo Western Movies
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/mm/miami-tv-gold-us.png"group-title="Interesting",USA : Miami TV Gold
+https://8f4cbe9fa8d44aa3bfd4283527a9effd.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast_gold/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/KdBr6rG.png"group-title="Interesting",Ghost Hunters
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/jguTO8E.png"group-title="Interesting",Power Nation
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.vimeocdn.com/portrait/77253783_288x288?sig=e56877ba6554947f9856c1b198f64adf3023926188ca4701587beed2b3ec7236&v=1&region=us"group-title="Interesting",Reelzs
 https://d3serb1fmh623s.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://tvoneusa.com/wp-content/themes/tvone/assets/images/logo.png"group-title="Interesting",USA : TV 1
+https://masjiddirectory.com/hls/close_destination.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/aeu5zIC.png"group-title="Interesting",Russian Doco
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png"group-title="Interesting",Singapore

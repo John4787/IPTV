@@ -1,0 +1,376 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="AnimationPlus.us@SD"tvg-logo="https://i.imgur.com/OIFK6JB.png"group-title="Animation":http-user-agent="",Animation+ (1080p) [Geo-blocked]
+https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseAnime.us@SD"tvg-logo="https://i.imgur.com/3wqeGXM.png"group-title="Animation":http-user-agent="",FilmRise Anime (720p)
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@English"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png"group-title="Animation;Kids":http-user-agent="",Mr. Bean Animated (1080p)
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BNNBloomberg.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png"group-title="Business":http-user-agent="",BNN Bloomberg
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+#EXTINF:-1 tvg-id="TheConners.us@SD"tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png"group-title="Comedy;Series":http-user-agent="",The Conners (1080p) [Geo-blocked]
+https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CMalayalamTV.ca@SD"tvg-logo="https://i.imgur.com/rpg0bQA.png"group-title="Culture":http-user-agent="",C Malayalam TV (1080p)
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-id="DukhNivaran.ca@SD"tvg-logo="https://i.imgur.com/Zh60l1x.png"group-title="Culture":http-user-agent="",Dukh Nivaran (720p) [Not 24/7]
+http://cdn12.henico.net:8080/live/dncal/index.m3u8
+#EXTINF:-1 tvg-id="EawazTV.ca@SD"tvg-logo="https://i.imgur.com/vB4yzen.png"group-title="Culture":http-user-agent="",Eawaz TV (720p) [Not 24/7]
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
+#EXTINF:-1 tvg-id="EETTV.ca@SD"tvg-logo="https://i.imgur.com/rntSEDZ.png"group-title="Culture":http-user-agent="",EET TV (1080p) [Not 24/7]
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="HyderTV.ca@SD"tvg-logo="https://i.imgur.com/reHjjRZ.png"group-title="Culture":http-user-agent="",Hyder TV (720p)
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca@SD"tvg-logo="https://i.imgur.com/Y5YnUit.png"group-title="Culture":http-user-agent="",Montreal Greek TV (480p)
+http://live.greektv.ca/hls1/greektv.m3u8
+#EXTINF:-1 tvg-id="PardesiTV.ca@SD"tvg-logo="https://i.imgur.com/CwAdPpZ.jpg"group-title="Culture":http-user-agent="",Pardesi TV (720p)
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TCFTV.ca@SD"tvg-logo="https://i.imgur.com/lHsS6Lj.png"group-title="Culture;General":http-user-agent="",TCF TV
+http://66.11.33.44:8081/live/TCF/playlist.m3u8
+#EXTINF:-1 tvg-id="PamirTV.ca@SD"tvg-logo="https://i.imgur.com/sCBbBOj.png"group-title="Culture;Music":http-user-agent="",Pamir TV (1080p) [Not 24/7]
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="AutenticHistory.de@SD"tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png"group-title="Documentary":http-user-agent="",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-id="INWILD.nl@SD"tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png"group-title="Documentary":http-user-agent="",INWILD (1080p)
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="TotalCrime.ca@CA"tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png"group-title="Documentary":http-user-agent="",Total Crime (1080p)
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1 tvg-id="CFTUDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png"group-title="Education":http-user-agent="",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD"tvg-logo="https://i.imgur.com/VfofmZZ.png"group-title="Education;Kids":http-user-agent="",Knowledge Network (720p) [Geo-blocked]
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 tvg-id="5AABTV.ca@SD"tvg-logo="https://i.imgur.com/jrGrfof.png"group-title="Entertainment":http-user-agent="",5AAB TV (720p) [Not 24/7]
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AE.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"group-title="Entertainment":http-user-agent="",A&E East (720p) [Not 24/7]
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-id="FEVATV.ca@SD"tvg-logo="https://i.imgur.com/QSi0YTS.png"group-title="Entertainment":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",FEVA TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu
+#EXTINF:-1 tvg-id="MHZ.ca@SD"tvg-logo="https://i.imgur.com/a5fw83n.jpg"group-title="Entertainment":http-user-agent="",MHZ
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimeCanadaTV.ca@SD"tvg-logo="https://i.imgur.com/Vji81jB.png"group-title="Entertainment":http-user-agent="",Prime Canada TV (720p) [Not 24/7]
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SooriyanTV.ca@SD"tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg"group-title="Entertainment":http-user-agent="",Sooriyan TV (1080p)
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD"tvg-logo="https://i.imgur.com/6NUpxhr.png"group-title="Entertainment":http-user-agent="",STAR International (720p)
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 tvg-id="TamilEntertainmentTelevision.ca@HD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Tamil_Entertainment_Television.png"group-title="Entertainment":http-user-agent="",Tamil Entertainment Television (1080p)
+https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8
+#EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD"tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png"group-title="Entertainment":http-user-agent="",The Graham Norton Show (1080p)
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AfghanNobelTV.ca@SD"tvg-logo="https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg"group-title="General":http-user-agent="",Afghan Nobel TV (720p)
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AzStarTV.ca@SD"tvg-logo="https://i.imgur.com/di3XX5L.png"group-title="General":http-user-agent="",Azstar TV HD (1080p)
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="CBRTDT.ca@SD"tvg-logo="https://i.imgur.com/ocq1x2B.png"group-title="General":http-user-agent="",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+#EXTINF:-1 tvg-id="CBXTDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png"group-title="General":http-user-agent="",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+#EXTINF:-1 tvg-id="CBWTDT.ca@SD"tvg-logo="https://i.imgur.com/aWNHg5z.png"group-title="General":http-user-agent="",CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+#EXTINF:-1 tvg-id="CBMTDT.ca@SD"tvg-logo="https://i.imgur.com/OiiM6Mz.png"group-title="General":http-user-agent="",CBC Montréal (CBMT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 tvg-id="CBATDT.ca@SD"tvg-logo="https://i.imgur.com/xflShTG.png"group-title="General":http-user-agent="",CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+#EXTINF:-1 tvg-id="CBNTDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CBNT-DT_2017.svg/960px-CBNT-DT_2017.svg.png"group-title="General":http-user-agent="",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+#EXTINF:-1 tvg-id="CFYKDT.ca@SD"tvg-logo="https://i.imgur.com/EHGOQhj.png"group-title="General":http-user-agent="",CBC North (CFYK-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
+#EXTINF:-1 tvg-id="CBHTDT.ca@SD"tvg-logo="https://i.imgur.com/jdlYY4t.png"group-title="General":http-user-agent="",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:-1 tvg-id="CBOTDT.ca@SD"tvg-logo="https://i.imgur.com/v3DJUa8.png"group-title="General":http-user-agent="",CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+#EXTINF:-1 tvg-id="CBCTDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CBCT-DT_2017.svg/960px-CBCT-DT_2017.svg.png"group-title="General":http-user-agent="",CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+#EXTINF:-1 tvg-id="CBKTDT.ca@SD"tvg-logo="https://i.imgur.com/PWGVjsg.png"group-title="General":http-user-agent="",CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+#EXTINF:-1 tvg-id="CBLTDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png"group-title="General":http-user-agent="",CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:-1 tvg-id="CBUTDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png"group-title="General":http-user-agent="",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:-1 tvg-id="CBETDT.ca@SD"tvg-logo="https://i.imgur.com/NFts1uU.png"group-title="General":http-user-agent="",CBC Windsor (CBET-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+#EXTINF:-1 tvg-id="CHCOTV.ca@SD"tvg-logo="https://i.imgur.com/EpMawIy.png"group-title="General":http-user-agent="",CHCO-TV (720p) [Geo-blocked]
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+#EXTINF:-1 tvg-id="DeshiTV.ca@SD"tvg-logo="https://i.imgur.com/PzqzgMm.png"group-title="General":http-user-agent="",Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="GaundaPunjabTV.ca@SD"tvg-logo="https://i.imgur.com/ArRZRM3.png"group-title="General":http-user-agent="",Gaunda Punjab TV (720p)
+http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GHCanadaTV.ca@SD"tvg-logo=""group-title="General":http-user-agent="",GH Canada TV
+https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
+#EXTINF:-1 tvg-id="GTNCanada.ca@SD"tvg-logo="https://i.imgur.com/7bQPJOd.png"group-title="General":http-user-agent="",GTN Canada (1080i) [Geo-blocked]
+https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
+#EXTINF:-1 tvg-id="CFHDDT.ca@SD"tvg-logo="https://i.imgur.com/x0vLIWr.png"group-title="General":http-user-agent="",ICI Montreal (720p)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="CBFTDT.ca@SD"tvg-logo="https://i.imgur.com/pFCJGj4.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé (1080p) [Geo-blocked]
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#EXTINF:-1 tvg-id="CBXFTDT.ca@SD"tvg-logo="https://i.imgur.com/xN4Valg.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
+#EXTINF:-1 tvg-id="CBUFTDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
+#EXTINF:-1 tvg-id="CJBRDT.ca@SD"tvg-logo="https://i.imgur.com/1B3d8Jc.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+#EXTINF:-1 tvg-id="CKSHDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+#EXTINF:-1 tvg-id="CBWFTDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ICI_Manitoba_logo_2018.svg/960px-ICI_Manitoba_logo_2018.svg.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
+#EXTINF:-1 tvg-id="CKTMDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
+#EXTINF:-1 tvg-id="CBLFTDT.ca@SD"tvg-logo="https://i.imgur.com/1f798e8.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
+#EXTINF:-1 tvg-id="CBOFTDT.ca@SD"tvg-logo="https://i.imgur.com/373Y8Py.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+#EXTINF:-1 tvg-id="CBVTDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+#EXTINF:-1 tvg-id="CKTVDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/960px-SRC-TV.svg.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
+#EXTINF:-1 tvg-id="CBKFTDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ICI_Saskatchewan_logo_2018.svg/960px-ICI_Saskatchewan_logo_2018.svg.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
+#EXTINF:-1 tvg-id="CBAFTDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/960px-ICI_Acadie_logo_2018.svg.png"group-title="General":http-user-agent="",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
+#EXTINF:-1 tvg-id="NACTV.ca@SD"tvg-logo="https://i.imgur.com/FzM95rH.png"group-title="General":http-user-agent="",NACTV
+https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
+#EXTINF:-1 tvg-id="CJONDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG"group-title="General":http-user-agent="",Newfoundland Television (480p)
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTDTVCanada.us@East"tvg-logo="https://i.imgur.com/iyFXcDy.png"group-title="General":http-user-agent="",NTD TV Canada
+https://live.ntdtv.com/mllive860/playlist.m3u8
+#EXTINF:-1 tvg-id="NTDTVCanada.us@West"tvg-logo="https://i.imgur.com/iyFXcDy.png"group-title="General":http-user-agent="",NTD TV Canada West
+https://live.ntdtv.com/cwlive220/playlist.m3u8
+#EXTINF:-1 tvg-id="PBCTapeshTV.us@SD"tvg-logo="https://i.imgur.com/50JzsmH.png"group-title="General":http-user-agent="",PBC Tapesh TV (720p)
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-id="SohailTV.ca@SD"tvg-logo="https://i.ibb.co/dtzjKfT/Sohail-TV.png"group-title="General":http-user-agent="",Sohail TV (1080p)
+https://iptv.sohailtv.com/sohail/playlist/index.m3u8
+#EXTINF:-1 tvg-id="CFTMDT.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png"group-title="General":http-user-agent="",TVA [Geo-blocked]
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+#EXTINF:-1 tvg-id="WataneMaaTV.ca@SD"tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png"group-title="General":http-user-agent="",Watan-e-Maa TV (720p)
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.ca@SD"tvg-logo="https://i.imgur.com/MaFtbM5.png"group-title="Kids":http-user-agent="",Kidoodle.TV (1080p)
+https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOKids.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png"group-title="Kids":http-user-agent="",TVOKids
+https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+#EXTINF:-1 tvg-id="CPACEnglish.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png"group-title="Legislative":http-user-agent="",CPAC (720p)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofBritishColumbia.ca@SD"tvg-logo="https://i.imgur.com/5QGxHhh.png"group-title="Legislative":http-user-agent="",Legislative Assembly of British Columbia
+https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofBritishColumbiaCommitteeA.ca@SD"tvg-logo=""group-title="Legislative":http-user-agent="",Legislative Assembly of British Columbia Committee A
+https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca@SD"tvg-logo="https://i.imgur.com/n24MrsX.png"group-title="Legislative":http-user-agent="",Legislative Assembly of Ontario
+https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca@SD"tvg-logo="https://i.imgur.com/wY9WhYS.png"group-title="Legislative":http-user-agent="",Legislative Assembly TV Nunavut
+http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
+#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca@SD"tvg-logo="https://i.imgur.com/xKXs6ER.png"group-title="Legislative":http-user-agent="",Ontario Parliamentary Network (720p)
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticTravel.de@SD"tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png"group-title="Lifestyle":http-user-agent="",Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSTravel.us@SD"tvg-logo="https://i.imgur.com/A6GXhta.png"group-title="Lifestyle":http-user-agent="",PBS Travel (1080p)
+https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+#EXTINF:-1 tvg-id="AfghanNobelMovies.ca@SD"tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png"group-title="Movies":http-user-agent="",Afghan Nobel Movies (720p)
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:-1 tvg-id="NETVToronto.ca@SD"tvg-logo="https://i.imgur.com/WXRBuOW.png"group-title="Movies":http-user-agent="",NETV Toronto (720p)
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+#EXTINF:-1 tvg-id="iTVAfrobeatsMusic.ca@HD"tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png"group-title="Music":http-user-agent="",iTV Afrobeats Music
+https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="iTVArabicMusic.ca@HD"tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png"group-title="Music":http-user-agent="",iTV Arabic Music
+https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="iTVIndianMusic.ca@HD"tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png"group-title="Music":http-user-agent="",iTV Indian Music
+https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="iTVLatinMusic.ca@HD"tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png"group-title="Music":http-user-agent="",iTV Latin Music
+https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="iTVTurkishMusic.ca@HD"tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png"group-title="Music":http-user-agent="",iTV Turkish Music
+https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="iTVUrbanMusic.ca@HD"tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png"group-title="Music":http-user-agent="",iTV Urban Music
+https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CKNOFM.ca@SD"tvg-logo="https://i.imgur.com/sF2g7KE.png"group-title="Music":http-user-agent="",Now TV 102.3FM Edmonton (CKNO-FM) (616p)
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD"tvg-logo="https://i.imgur.com/IRyFTWq.png"group-title="Music":http-user-agent="",Qello Concerts by Stingray (1080p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD"tvg-logo="https://i.imgur.com/FBgu8yB.png"group-title="Music":http-user-agent="",Stingray Classic Rock (1080p)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca@SD"tvg-logo="https://i.imgur.com/nh1k5RC.png"group-title="Music":http-user-agent="",Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCMusic.ca@SD"tvg-logo="https://i.imgur.com/3UppN5P.png"group-title="Music":http-user-agent="",Stingray CMusic (1080p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png"group-title="Music":http-user-agent="",Stingray DJAZZ (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png"group-title="Music":http-user-agent="",Stingray Easy Listening (1080p)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEuroHits.ca@SD"tvg-logo="https://i.imgur.com/FyhO9U5.png"group-title="Music":http-user-agent="",Stingray Euro Hits (1080p)
+https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayExitosdelMomento.ca@SD"tvg-logo="https://i.imgur.com/wiasHUR.png"group-title="Music":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",Stingray Éxitos del Momento (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca@SD"tvg-logo="https://i.imgur.com/jf5C9QF.png"group-title="Music":http-user-agent="",Stingray Flashback 70s (1080p)
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca@SD"tvg-logo=""group-title="Music":http-user-agent="",Stingray Greatest Hits (1080p)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca@SD"tvg-logo="https://i.imgur.com/lgpIwId.png"group-title="Music":http-user-agent="",Stingray Hit List (1080p)
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca@HD"tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png"group-title="Music":http-user-agent="",Stingray Holidayscapes (1080p)
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca@SD"tvg-logo="https://i.imgur.com/PZhxyIT.png"group-title="Music":http-user-agent="",Stingray Hot Country (1080p)
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png"group-title="Music":http-user-agent="",Stingray Jukebox Oldies (1080p)
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD"tvg-logo="https://i.imgur.com/9TLTLS3.png"group-title="Music":http-user-agent="",Stingray Karaoke (1080p)
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD"tvg-logo="https://i.imgur.com/882kd90.png"group-title="Music":http-user-agent="",Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca@SD"tvg-logo="https://i.imgur.com/Tq3I0po.png"group-title="Music":http-user-agent="",Stingray Nothin' But 90s (1080p)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca@SD"tvg-logo="https://i.imgur.com/H2ugC9L.png"group-title="Music":http-user-agent="",Stingray Pop Adult (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca@SD"tvg-logo="https://i.imgur.com/6E3wYrb.png"group-title="Music":http-user-agent="",Stingray Remember the 80s (1080p)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca@SD"tvg-logo="https://i.imgur.com/duwc8E8.png"group-title="Music":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",Stingray Remember the 80s (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8?ads.vf=Fq0bVWh7hy0
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca@SD"tvg-logo="https://i.imgur.com/mt8ulVX.png"group-title="Music":http-user-agent="",Stingray Rock Alternative (1080p)
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png"group-title="Music":http-user-agent="",Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca@SD"tvg-logo="https://i.imgur.com/h1DsOzH.png"group-title="Music":http-user-agent="",Stingray Smooth Jazz (1080p)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca@SD"tvg-logo="https://i.imgur.com/dU1KC3f.png"group-title="Music":http-user-agent="",Stingray Soul Storm (1080p)
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca@SD"tvg-logo="https://i.imgur.com/ywAN923.png"group-title="Music":http-user-agent="",Stingray The Spa (1080p)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD"tvg-logo="https://i.imgur.com/mMbntB5.png"group-title="Music":http-user-agent="",Stingray Today's KPOP (1080p)
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD"tvg-logo="https://i.imgur.com/Os3kRRP.png"group-title="Music":http-user-agent="",Stingray Today's Latin Pop (1080p)
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@SD"tvg-logo="https://i.imgur.com/Os3kRRP.png"group-title="Music":http-user-agent="",Stingray Urban Beat (1080p)
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="XITE90sThrowback.us@SD"tvg-logo="https://i.imgur.com/vwpOzuz.png"group-title="Music":http-user-agent="",XITE 90's Throwback (1080p)
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-id="XITENuevoLatino.us@SD"tvg-logo="https://i.imgur.com/2qyl2y3.png"group-title="Music":http-user-agent="",XITE Nuevo Latino (1080p)
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-id="XITESiempreLatino.us@SD"tvg-logo="https://i.imgur.com/bwmIEgG.png"group-title="Music":http-user-agent="",XITE Siempre Latino (1080p)
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD"tvg-logo="https://i.imgur.com/SjTdhvJ.png"group-title="News":http-user-agent="",CBC News (1080p)
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:-1 tvg-id="ChannelY.ca@SD"tvg-logo="https://i.imgur.com/OqSl2Qf.png"group-title="News":http-user-agent="",Channel Y (720p) [Not 24/7]
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CityNewsCalgary.ca@SD"tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png"group-title="News":http-user-agent="",CityNews Calgary (720p)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-id="CityNewsEdmonton.ca@SD"tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png"group-title="News":http-user-agent="",CityNews Edmonton
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8
+#EXTINF:-1 tvg-id="CityNewsToronto.ca@SD"tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png"group-title="News":http-user-agent="",CityNews Toronto (720p)
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="CityNewsVancouver.ca@SD"tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png"group-title="News":http-user-agent="",CityNews Vancouver (720p)
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 tvg-id="HamdardTV.ca@SD"tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png"group-title="News":http-user-agent="",Hamdard TV (1080p)
+https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 tvg-id="IciRDI.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png"group-title="News":http-user-agent="",ICI RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="LCN.ca@SD"tvg-logo="https://i.imgur.com/iKDLgOG.png"group-title="News":http-user-agent="",LCN [Geo-blocked]
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD"tvg-logo="https://i.imgur.com/7oTsfQ4.png"group-title="News":http-user-agent="",Probashi TV News (1080p)
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png"group-title="News":http-user-agent="",RT France (1080p) [Geo-blocked]
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="TheNewsForum.ca@HD"tvg-logo="https://i.imgur.com/hhqqiqg.png"group-title="News":http-user-agent="",The News Forum (1080p)
+http://name-port.to/live/Gregory123/Gregory321/2420047.ts
+#EXTINF:-1 tvg-id="TVPunjab.ca@SD"tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png"group-title="News":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",TV Punjab (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=W-glh07KfBm
+#EXTINF:-1 tvg-id="LoveNature.ca@SD"tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"group-title="Outdoor":http-user-agent="",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@4K"tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"group-title="Outdoor":http-user-agent="",Love Nature 4K (2160p) [Geo-blocked]
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD"tvg-logo="https://i.imgur.com/Kh4MWaY.png"group-title="Outdoor":http-user-agent="",Outdoor Channel (1080p)
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@US"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png"group-title="Outdoor;Sports":http-user-agent="",Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNCanada.ca@SD"tvg-logo="https://i.imgur.com/U99CsEc.png"group-title="Religious":http-user-agent="",3ABN Canada (720p)
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca@SD"tvg-logo="https://i.imgur.com/I0oPFTj.png"group-title="Religious":http-user-agent="",Amazing Discoveries TV (720p)
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ErfanHalghehTV.ca@SD"tvg-logo="https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png"group-title="Religious":http-user-agent="",Erfan Halgheh TV (720p)
+https://hls.erfanhalgheh.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="EWTN.us@Canada"tvg-logo="https://i.imgur.com/sua70RO.png"group-title="Religious":http-user-agent="",EWTN Canada (720p)
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GurSikhSabhaTV.ca@SD"tvg-logo="https://i.imgur.com/2EKCtQm.png"group-title="Religious":http-user-agent="",GurSikh Sabha TV (720p) [Not 24/7]
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+#EXTINF:-1 tvg-id="ICnet1.ca@SD"tvg-logo="https://i.imgur.com/aeS4Sjv.png"group-title="Religious":http-user-agent="",icnet 1
+https://icnet1hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IIPCTV.ca@SD"tvg-logo="https://i.imgur.com/mIih39Y.png"group-title="Religious":http-user-agent="",IIPC TV (720p)
+https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
+#EXTINF:-1 tvg-id="QuoVadisTV.ca@SD"tvg-logo="https://i.imgur.com/pEqDDHl.png"group-title="Religious":http-user-agent="",Quo Vadis TV (720p)
+https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca@SD"tvg-logo="https://i.imgur.com/CL32kFA.png"group-title="Religious":http-user-agent="",Radio Tele Evangile Sans Limite
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 tvg-id="SVBC2.in@SD"tvg-logo="https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540"group-title="Religious":http-user-agent="",SVBC 2 (1080p)
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC3.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC3.png"group-title="Religious":http-user-agent="",SVBC 3 (720p)
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC4.in@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png"group-title="Religious":http-user-agent="",SVBC 4 (1080p)
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC.in@SD"tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540"group-title="Religious":http-user-agent="",SVBC Sri Venkateswara Bhakti Channel (1080p)
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NashBridges.us"tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png"group-title="Series":http-user-agent="",Nash Bridges Channel (1080p) [Geo-blocked]
+https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TSC.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png"group-title="Shop":http-user-agent="",Today's Shopping Choice (TSC) (720p)
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"group-title="Sports":http-user-agent="",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca@SD"tvg-logo="https://i.imgur.com/vlKPZHR.png"group-title="Sports":http-user-agent="",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="GamePlus.ca@SD"tvg-logo="https://i.imgur.com/Lj69WbR.png"group-title="Sports":http-user-agent="",Game+ (720p)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD"tvg-logo="https://i.imgur.com/Lgux6Ik.png"group-title="Sports":http-user-agent="",Golf Channel (1080p) [Not 24/7]
+https://tvpass.org/live/GolfChannel/hd
+#EXTINF:-1 tvg-id="HardKnocks.ca@SD"tvg-logo="https://i.imgur.com/nt9B6jx.png"group-title="Sports":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",Hard Knocks (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
+#EXTINF:-1 tvg-id="NBATVCanada.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png"group-title="Sports":http-user-agent="",NBA TV Canada (1080p)
+http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca@SD"tvg-logo="https://i.imgur.com/eRFE0jZ.png"group-title="Sports":http-user-agent="",TSN1 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-id="TSN2.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png"group-title="Sports":http-user-agent="",TSN2 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-id="TSN3.ca@SD"tvg-logo="https://i.imgur.com/AYza8KO.png"group-title="Sports":http-user-agent="",TSN3 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-id="TSN4.ca@SD"tvg-logo="https://i.imgur.com/qJyAWU8.png"group-title="Sports":http-user-agent="",TSN4 (720p) [Not 24/7]
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="TSN5.ca@SD"tvg-logo="https://i.imgur.com/HEzHpzz.png"group-title="Sports":http-user-agent="",TSN5 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn5/hd
+#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png"group-title="Sports":http-user-agent="",TSN The Ocho (1080p)
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us@SD"tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png"group-title="Sports":http-user-agent="",Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+#EXTINF:-1 tvg-id="Cable14Hamilton.ca@SD"tvg-logo="https://i.imgur.com/bJ7ygTq.png"group-title="Undefined":http-user-agent="",Cable 14 Hamilton
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
+#EXTINF:-1 tvg-id="CanadaOne.ca@SD"tvg-logo=""group-title="Undefined":http-user-agent="",Canada One (720p) [Not 24/7]
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD"tvg-logo="https://i.imgur.com/xwntWOP.png"group-title="Undefined":http-user-agent="",Cowboy Channel (1080p)
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVPlus.ca@SD"tvg-logo="https://i.imgur.com/YEUhPBv.png"group-title="Undefined":http-user-agent="",NTV+
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="PrimeAsiaTV.ca@SD"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png"group-title="Undefined":http-user-agent="",Prime Asia TV (1080p)
+http://primeasia.selfip.net/Samsung/index.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabiCanada.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png"group-title="Undefined":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",PTC Punjabi Canada (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8?ads.vf=78XheDwhNDq
+#EXTINF:-1 tvg-id="SardariTV.ca@SD"tvg-logo=""group-title="Undefined":http-user-agent="",Sardari TV (1080p) [Not 24/7]
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca@SD"tvg-logo="https://i.imgur.com/YKXoIsr.png"group-title="Undefined":http-user-agent="",Sikh Spiritual Centre Rexdale (720p)
+https://cdn12.henico.net:8443/live/ssct/index.m3u8
+#EXTINF:-1 tvg-id="TAGTV.ca@SD"tvg-logo="https://i.imgur.com/4PA2adF.png"group-title="Undefined":http-user-agent="",TAG TV (1080p) [Not 24/7]
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TamilVisionTV.ca@SD"tvg-logo="https://i.imgur.com/DodsLuW.png"group-title="Undefined":http-user-agent="",TamilVision-TV (1080p)
+https://live.cmr24.fm/TVI/HD/chunks.m3u8
+#EXTINF:-1 tvg-id="Toronto360TV.ca@SD"tvg-logo="https://i.imgur.com/YJYdHKO.png"group-title="Undefined":http-user-agent="",Toronto 360 TV (720p) [Not 24/7]
+http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5QuebecCanada.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png"group-title="Undefined":http-user-agent="",TV5 Quebec Canada (1080p)
+http://23.133.220.149/TV5/index.m3u8
+#EXTINF:-1 tvg-id="TV16Toronto.ca@SD"tvg-logo="https://i.imgur.com/c4lLchb.png"group-title="Undefined":http-user-agent="",TV 16 Toronto (720p) [Not 24/7]
+http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD"tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png"group-title="Undefined":http-user-agent="",TVE Internacional America (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="UvagutTV.ca@SD"tvg-logo="https://i.imgur.com/RR7ATr2.png"group-title="Undefined":http-user-agent="",Uvagut TV (1080p)
+https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
+#EXTINF:-1 tvg-id="WCGtv.ca@SD"tvg-logo="https://i.imgur.com/q7UPbEG.png"group-title="Undefined":http-user-agent="",WCGtv Public (720p)
+https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
+#EXTINF:-1 tvg-id="WildTV.ca@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png"group-title="Undefined":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",Wild TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8?ads.vf=Q6fDmijf_hK
+#EXTINF:-1 tvg-id="ZeeTVCanada.ca@SD"tvg-logo="https://i.imgur.com/mARKUZ9.png"group-title="Undefined":http-user-agent="",Zee TV Canada (1080p)
+https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8

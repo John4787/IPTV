@@ -1,0 +1,49 @@
+﻿#EXTM3U 
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Narooma
+https://streaming-au.coastalcoms.com/cw/naroomacamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Merimbula
+https://streaming-au.coastalcoms.com/cw/merimbulacamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Kellys Beach
+https://streaming-au.coastalcoms.com/cw/kellysbeachcamera.stream/chunklist_w1830203193.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Iluka Yamba
+https://streaming-au.coastalcoms.com/cw/ilukacamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Evans Head
+https://streaming-au.coastalcoms.com/cw/evansheadcamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Camden Haven
+https://streaming-au.coastalcoms.com/cw/camdencamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Bermagui
+https://streaming-au.coastalcoms.com/cw/bermaguicamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Ballina
+https://streaming-au.coastalcoms.com/cw/ballinarmscamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Port Maquarie
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/portmacquariecamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="New South Wales",Brunswick Heads
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/brunswickheadscamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Palm Cove
+https://streaming-au.coastalcoms.com/cw/palmcovecamera.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Kellys Beach
+https://streaming-au.coastalcoms.com/cw/kellysbeachcamera.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Palm Beach SLSC
+https://palmycam.techd.systems:8181/memfs/3e85136f-8953-4b13-aa63-e26bd1e612ba.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Coral Sea
+https://hls.augrea.stream/coral/hls/stream.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Froggies
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/tweedriverbarcamera.stream/chunklist_w1334187471.m3u8
+#EXTINF:-1 tvg-name="https://www.goldcoast.qld.gov.au/Things-to-do/Gold-Coast-beaches/Beach-cameras"tvg-id=""tvg-logo=""group-title="Queensland",Tugun Beach
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/tuguncamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Balinga Beach
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/tuguncamera.stream/chunklist_w1867997007.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Rainbow Bay
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/rainbowbaycamera.stream/chunklist_w843464824.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Greenmount
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/rainbowbaycamera.stream/chunklist_w558197585.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Palm Beach
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/palmbeachqldcamera.stream/chunklist_w208624243.m3u8
+#EXTINF:-1 tvg-name="https://www.goldcoast.qld.gov.au/Things-to-do/Gold-Coast-beaches/Beach-cameras"tvg-id=""tvg-logo=""group-title="Queensland",Main Beach
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/mainbeachcamera.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="https://www.goldcoast.qld.gov.au/Things-to-do/Gold-Coast-beaches/Beach-cameras"tvg-id=""tvg-logo=""group-title="Queensland",Kirra
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/kirracamera.stream/chunklist_w1852268387.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Currumbin
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/currumbincamera.stream/chunklist_w159908603.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Queensland",Burleigh Heads 4
+https://d1nm4r8e5x1rwd.cloudfront.net/cw/burleighhighcamera.stream/playlist.m3u8

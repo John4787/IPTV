@@ -1,0 +1,39 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id=""tvg-logo="47.551039,-111.539400"group-title="IP Cameras":http-referrer="":http-user-agent="",Great Falls
+rtsp://76.75.8.116/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo="-33.925840,18.423220"group-title="IP Cameras":http-referrer="":http-user-agent="",Western Cape
+rtsp://196.21.92.82/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo="-32.890840,-68.827170"group-title="IP Cameras":http-referrer="":http-user-agent="",Mendoza
+rtsp://190.113.172.8/
+#EXTINF:-1 tvg-id=""tvg-logo="67.280000,14.405010"group-title="IP Cameras":http-referrer="":http-user-agent="",Nordland"
+rtsp://77.110.228.219/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo="42.972250,-85.953650"group-title="IP Cameras":http-referrer="":http-user-agent="",Allendale
+rtsp://71.83.5.156/axis-media/media.amp?videocodec=h265
+#EXTINF:-1 tvg-id=""tvg-logo="44.238960,5.074610"group-title="IP Cameras":http-referrer="":http-user-agent="",Vaison-La-Romaine
+rtsp://176.139.87.16/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo="45.284650,-111.368290"group-title="IP Cameras":http-referrer="":http-user-agent="",BigSky
+rtsp://76.75.8.120/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo="28.538340,-81.379240"group-title="IP Cameras":http-referrer="":http-user-agent="",Orlando
+rtsp://97.68.104.34/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="IP Cameras":http-referrer="":http-user-agent="",Bedford Hills
+rtsp://73.114.177.111/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="IP Cameras":http-referrer="":http-user-agent="",Zeeland
+rtsp://213.34.225.97/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo="35.717000,140.650000"group-title="IP Cameras":http-referrer="":http-user-agent="",Asahi
+rtsp://211.132.61.124/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo="49.249660,-123.119340"group-title="IP Cameras":http-referrer="":http-user-agent="",Vancouver
+rtsp://174.6.126.86/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="IP Cameras":http-referrer="":http-user-agent="",VyhladJazero
+rtsp://stream.strba.sk:1935/strba/VYHLAD_JAZERO.stream
+#EXTINF:-1 tvg-id=""tvg-logo="43.483330,-1.483330"group-title="IP Cameras":http-referrer="":http-user-agent="",Bayonne
+rtsp://193.142.128.20/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="IP Cameras":http-referrer="":http-user-agent="",Waterford
+rtsp://86.44.41.160/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="IP Cameras":http-referrer="":http-user-agent="",PriceCenterPlaza
+rtsp://132.239.12.145/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="IP Cameras":http-referrer="":http-user-agent="",Pocapaglia
+rtsp://176.65.94.105/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="IP Cameras":http-referrer="":http-user-agent="",Norwich
+rtsp://37.157.51.30/axis-media/media.amp
+#EXTINF:-1 tvg-id=""tvg-logo="67.280000,14.405010"group-title="IPCameras":http-referrer="":http-user-agent="",Nordland
+rtsp://77.110.228.219/axis-media/media.amp

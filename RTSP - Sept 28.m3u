@@ -35,5 +35,5 @@ rtsp://132.239.12.145/axis-media/media.amp
 rtsp://176.65.94.105/axis-media/media.amp
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="IP Cameras":http-referrer="":http-user-agent="",Norwich
 rtsp://37.157.51.30/axis-media/media.amp
-#EXTINF:-1 tvg-id=""tvg-logo="67.280000,14.405010"group-title="IPCameras":http-referrer="":http-user-agent="",Nordland
+#EXTINF:-1 tvg-id=""tvg-logo="67.280000,14.405010"group-title="IP Cameras":http-referrer="":http-user-agent="",Nordland
 rtsp://77.110.228.219/axis-media/media.amp
